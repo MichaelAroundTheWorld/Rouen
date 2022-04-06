@@ -1,0 +1,769 @@
+;name;address;e-mail;site;telephone;e_mail
+0;Chez l'Gros;42 rue de la Vicomte, 76000, Rouen France;;https://www.facebook.com/ChezLGros/;tel:+33 2 32 83 57 23;
+1;La Rose des Sables;113 Place Beauvoisine, 76000, Rouen France;;http://www.facebook.com/rose.dessables.50596;tel:+33 2 27 08 37 54;
+2;Rodolphe;35 rue Perciere, 76000, Rouen France;;http://www.restaurant-rodolphe.com/;tel:+33 2 35 73 32 58;mailto:reservation@restaurant-rodolphe.com?subject=?
+3;Alba Restaurant;236 rue Martainville, 76000, Rouen France;;http://www.alba-restaurant.fr/;tel:+33 9 87 36 44 24;mailto:alba-restaurant@outlook.fr?subject=?
+4;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+5;La Maison Turque;36 rue Cauchoise, 76000, Rouen France;;http://www.facebook.com/La-Maison-Turque-1014592178605630/;tel:+33 2 35 89 90 60;mailto:la.maison.turque@gmail.com?subject=?
+6;Listo;170 rue Martainville, 76000, Rouen France;;https://www.facebook.com/Listoempanadas/;tel:+33 2 35 07 45 76;
+7;La Marmite;3 rue de Florence Proximité Place Du Vieux Marché, 76000, Rouen France;;http://www.lamarmiterouen.com;tel:+33 2 35 71 75 55;mailto:lamarmite@aol.com?subject=?
+8;Gill;8 quai de la Bourse, 76000, Rouen France;;http://www.gill.fr/en/;tel:+33 2 35 71 16 14;mailto:gill@gill.fr?subject=?
+9;Le P'tit Zinc;20 Place du Vieux Marche 20 Place du Vieux Marché, 76000, Rouen France;;http://www.restaurant76.fr;tel:+33 2 35 89 39 69;
+10;La Creperie Rouennaise;Rue du Pere Adam, 76000, Rouen France;;https://www.facebook.com/creperierouennaise/?ref=py_c;tel:+33 2 35 71 04 10;
+11;Sous la Toque D'olivier;604 rue de l Eglise Next The Church, 76230 Isneauville, Rouen France;;http://souslatoquedolivier.fr/;tel:+33 2 35 61 96 93;
+12;La Petite Auberge;164 rue Martainville, 76000, Rouen France;;http://www.restaurant-petite-auberge.fr/;tel:+33 2 35 70 80 18;
+13;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+14;Shalimar;Rue de la Chaine, 76000, Rouen France;;http://www.shalimar-restaurant-rouen.fr;tel:+33 2 35 73 17 86;
+15;Verrines et Sens;154 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/Verrines-et-Sens-ROUEN-168586197288180/;tel:+33 2 35 36 70 11;
+16;P'tit Gars;37 rue aux Ours, 76000, Rouen France;;http://www.facebook.com/restaurantptitgars/?fref=ts;tel:+33 2 35 89 97 58;
+17;L'Oritano;8 Place de la Pucelle D Orleans, 76000, Rouen France;;http://www.facebook.com/loritano.rouen;tel:+33 9 86 15 26 90;mailto:loritano.rouen@gmail.com?subject=?
+18;Ban Thai;95 rue Ecuyere 95 Rue Ecuyere, 76000, Rouen France;;http://www.banthai-rouen.fr/;tel:+33 2 35 08 33 24;
+19;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+20;BAR A VIN - Le Comptoir Henri IV;166 Place Henri IV, 76000, Rouen France;;;tel:+33 9 81 20 36 54;mailto:mlemic@bmimpression.com?subject=?
+21;La Pecherie;Place basse vieille tour, 76000, Rouen France;;http://www.lapecherie.fr;tel:+33 2 35 88 71 00;mailto:lapecherierouen@live.fr?subject=?
+22;La galerie restaurant rouen;4 rue Sainte Croix des Pelletiers, 76000, Rouen France;;http://www.facebook.com/restaurantlagalerierouen/;tel:+33 2 35 70 56 83;
+23;Le Pavlova Salon de The - Patisserie;29 rue aux Juifs, 76000, Rouen France;;http://www.facebook.com/LePavlova/;tel:+33 9 86 71 75 92;
+24;Raviolis & Bar;8 rue du General Giraud, 76000, Rouen France;;https://www.facebook.com/Raviolisbarrouen/?modal=admin_todo_tour;tel:+33 2 35 71 57 30;mailto:shizou76@gmail.com?subject=?
+25;Bar à Vins le Trio;244 rue Martainville, 76000, Rouen France;;http://www.le-trio.fr/;tel:+33 2 32 83 33 29;mailto:marketing.letrio@gmail.com?subject=?
+26;Tandem;11 rue Damiette, 76000, Rouen France;;http://tandem-rouen.fr/;tel:+33 2 32 83 18 63;mailto:tandemrestaurant76@gmail.com?subject=?
+27;Le Bistrot d'Arthur;27 rue Cauchoise 27 Rue Cauchoise 76000 Rouen, 76000, Rouen France;;http://www.lebistrotdarthur.fr;tel:+33 2 35 15 51 14;mailto:contact@bistrotdarthur.fr?subject=?
+28;Le 37;37 rue Saint Etienne des Tonneliers, 76000, Rouen France;;http://www.le37.fr/;tel:+33 2 35 70 56 65;mailto:contact@le37.fr?subject=?
+29;La Cornaelle;174 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/La-Corna%C3%ABlle-447051712028525;tel:+33 2 35 08 53 75;
+30;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+31;Chez l'Gros;42 rue de la Vicomte, 76000, Rouen France;;https://www.facebook.com/ChezLGros/;tel:+33 2 32 83 57 23;
+32;Alba Restaurant;236 rue Martainville, 76000, Rouen France;;http://www.alba-restaurant.fr/;tel:+33 9 87 36 44 24;mailto:alba-restaurant@outlook.fr?subject=?
+33;Tandem;11 rue Damiette, 76000, Rouen France;;http://tandem-rouen.fr/;tel:+33 2 32 83 18 63;mailto:tandemrestaurant76@gmail.com?subject=?
+34;Le Bistrot d'Arthur;27 rue Cauchoise 27 Rue Cauchoise 76000 Rouen, 76000, Rouen France;;http://www.lebistrotdarthur.fr;tel:+33 2 35 15 51 14;mailto:contact@bistrotdarthur.fr?subject=?
+35;Le Bistrot d'Arthur;27 rue Cauchoise 27 Rue Cauchoise 76000 Rouen, 76000, Rouen France;;http://www.lebistrotdarthur.fr;tel:+33 2 35 15 51 14;mailto:contact@bistrotdarthur.fr?subject=?
+36;La Cornaelle;174 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/La-Corna%C3%ABlle-447051712028525;tel:+33 2 35 08 53 75;
+37;Le 37;37 rue Saint Etienne des Tonneliers, 76000, Rouen France;;http://www.le37.fr/;tel:+33 2 35 70 56 65;mailto:contact@le37.fr?subject=?
+38;Les Nympheas;7 rue de la Pie, 76000, Rouen France;;http://www.lesnympheas-rouen.fr/;tel:+33 2 35 89 26 69;mailto:lesnympheas.rouen@wanadoo.fr?subject=?
+39;La Cornaelle;174 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/La-Corna%C3%ABlle-447051712028525;tel:+33 2 35 08 53 75;
+40;HOKKAIDO;5 rue des Bons Enfants 5 Rue des Bons Enfants, 76000, Rouen France;;http://www.hokkaido-rouen.fr;tel:+33 2 35 98 45 16;mailto:hokkaido.rouen@gmail.com?subject=?
+41;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+42;Les Capucines;16 rue Jean Mace, 76140 Le Petit Quevilly, Rouen France;;http://www.les-capucines.fr/;tel:+33 2 35 72 62 34;
+43;Raviolis & Bar;8 rue du General Giraud, 76000, Rouen France;;https://www.facebook.com/Raviolisbarrouen/?modal=admin_todo_tour;tel:+33 2 35 71 57 30;mailto:shizou76@gmail.com?subject=?
+44;Les Gens Heureux;196 rue Eau de Robec Situé dans la partie piétonne de la rue, 76000, Rouen France;;http://www.facebook.com/lesgensheureux.rouen/;tel:+33 2 77 07 70 72;mailto:falauzun@gmail.com?subject=?
+45;La Marmite;3 rue de Florence Proximité Place Du Vieux Marché, 76000, Rouen France;;http://www.lamarmiterouen.com;tel:+33 2 35 71 75 55;mailto:lamarmite@aol.com?subject=?
+46;Chez l'Gros;42 rue de la Vicomte, 76000, Rouen France;;https://www.facebook.com/ChezLGros/;tel:+33 2 32 83 57 23;
+47;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+48;Prelude;2 Place de la Pucelle D Orleans, 76000, Rouen France;;http://prelude-cafe.com;tel:+33 9 87 46 98 53;mailto:contact@dunecoffeeshop.com?subject=?
+49;Auberge Saint Maclou;222 rue Martainville, 76000, Rouen France;;http://www.aubergesaintmaclou.com;tel:+33 2 35 71 06 67;mailto:aubergestmaclou@gmail.com?subject=?
+50;Poppy's Fish & Chips - Burgers;21 rue Cauchoise, 76000, Rouen France;;https://www.facebook.com/Poppysfishandchips/;tel:+33 2 35 98 16 48;mailto:poppys.fishandchips@gmail.com?subject=?
+51;La Petite Bouffe;1 rue des Boucheries Saint Ouen, 76000, Rouen France;;https://www.facebook.com/La-petite-bouffe-395827483865343/;tel:+33 2 35 98 13 14;
+52;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+53;La Petite Epicerie;9 rue Massacre, 76000, Rouen France;;http://www.facebook.com/La-petite-%C3%A9picerie-Rouen-648146538561740;tel:+33 2 35 63 89 59;
+54;In Situ;35 rue Jean Lecanuet En Face du Musee des Beaux Arts, 76000, Rouen France;;http://www.insitu-restaurant.com;tel:+33 2 35 88 93 48;mailto:restaurantinsitu@orange.fr?subject=?
+55;Le Comptoir Des Halles;Place du Vieux Marche, Rouen France;;http://cotepoissons.com/;tel:+33 2 32 10 64 79;
+56;Le Chabada;rue Armand Carrel, 76000, Rouen France;;http://www.le-chabada.com;tel:+33 2 35 71 58 20;mailto:contact@le-chabada.com?subject=?
+57;Le 6eme sens;2 rue Thomas Corneille, 76000, Rouen France;;http://le-sixiemesens.fr/;tel:+33 2 35 88 43 97;mailto:contact@le-sixiemesens.fr?subject=?
+58;Le Cap'Tain;14 rue de l Ancienne Prison, 76000, Rouen France;;http://le-captain-restaurant-rouen.eatbu.com/?lang=fr;tel:+33 2 78 71 40 26;mailto:lecaptainrouen@gmail.com?subject=?
+59;Interm@de Brasserie;Zone du Gros Chene Parking Intermarché, 76230 Isneauville, Rouen France;;http://www.intermade-brasserie.fr;tel:+33 2 35 60 74 87;mailto:intermade-brasserie@orange.fr?subject=?
+60;Al'1;5 Place de la Cathedrale, 76000, Rouen France;;;tel:+33 2 35 36 52 61;
+61;Restaurant Philippe;54 rue aux Ours en Bas du gros horloge au croisement entre rue vergeture et rue aux ours, 76000, Rouen France;;;tel:+33 2 35 71 36 10;mailto:mathis.molinie.yvelin@gmail.com?subject=?
+62;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+63;La Place;26 Place du Vieux Marche, 76000, Rouen France;;http://www.laplace-restaurant-brasserie.fr;tel:+33 2 35 71 97 06;
+64;La Parenthèse;7 rue de la Poterne, 76000, Rouen France;;http://laparenthese.metro.rest/;tel:+33 2 35 89 58 11;mailto:laparenthese76@gmail.com?subject=?
+65;Social Perk;43 rue de la Tour de Beurre, 76000, Rouen France;;http://www.facebook.com/SocialPerkRouen/?locale2=fr_FR;tel:+33 2 35 62 28 05;
+66;Le French Burger;42 rue Cauchoise Angle rue de Fontenelle, 76000, Rouen France;;http://www.facebook.com/LeFrenchBurgerByPhilippeCyril;tel:+33 9 82 29 32 93;
+67;Raviolis & Bar;8 rue du General Giraud, 76000, Rouen France;;https://www.facebook.com/Raviolisbarrouen/?modal=admin_todo_tour;tel:+33 2 35 71 57 30;mailto:shizou76@gmail.com?subject=?
+68;Rotomagus;7 Place Barthelemy, 76000, Rouen France;;http://www.rotomagus.eu;tel:+33 2 35 07 26 57;mailto:rotomagusrouen@yahoo.com?subject=?
+69;Creperie Roland;22 rue Saint Nicolas A l'angle de la rue Saint Amand, 76000, Rouen France;;http://www.facebook.com/creperieroland;tel:+33 2 32 10 19 76;
+70;Gill Cote Bistro;14 Place du Vieux Marche, 76000, Rouen France;;http://www.gill-cote-bistro.fr;tel:+33 2 35 89 88 72;
+71;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+72;Chez l'Gros;42 rue de la Vicomte, 76000, Rouen France;;https://www.facebook.com/ChezLGros/;tel:+33 2 32 83 57 23;
+73;Restaurant La Couronne;31 Place du Vieux Marche Devant l'église Sainte Jeanne d'Arc, 76000, Rouen France;;http://www.lacouronne-rouen.fr/;tel:+33 2 35 71 40 90;mailto:contact@lacouronne-rouen.fr?subject=?
+74;Le Quattro;1884 route de Neufchatel, 76230 Isneauville, Rouen France;;http://www.pizzeria-lequattro.fr/;tel:+33 2 35 60 32 33;
+75;Bella Pizza;8 rue du Tambour 8 Rue du Tambour, 76000, 76000, Rouen France;;http://deliveroo.fr/fr/menu/rouen/rouen-vieux-marche-cathedrale/bella-pizza-rouen?day=today&time=ASAP;tel:+33 9 83 75 91 65;
+76;Bistro Nova;29 Place du Lieutenant Aubert, 76000, Rouen France;;https://www.facebook.com/Bistro-Nova-1096347473713980/;tel:+33 2 35 70 20 25;
+77;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+78;Le Garde Manger;23 Place de la Pucelle D Orleans, 76000, Rouen France;;http://www.legardemangerrouen.com/;tel:+33 2 35 71 19 54;mailto:legardermangerrouen@gmail.com?subject=?
+79;La Rose des Vents;33 Place de la Basse Vieille Tour, 76000, Rouen France;;https://www.facebook.com/-La-rose-des-vents-restaurant-%C3%A0-Rouen--128357733853989/;tel:02 35 70 29 78;mailto:larosedesvents76@wanadoo.fr?subject=?
+80;Le P'tit Zinc;20 Place du Vieux Marche 20 Place du Vieux Marché, 76000, Rouen France;;http://www.restaurant76.fr;tel:+33 2 35 89 39 69;
+81;L'epicurius;31 rue Damiette, 76000, Rouen France;;;tel:+33 9 75 30 04 67;
+82;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+83;Ho Lamian;243 rue Eau de Robec, 76000, Rouen France;;http://www.holamian.com;tel:+33 2 76 28 50 87;mailto:jcliger@sansgain.org?subject=?
+84;veau d'or;rue Desseaux, 76000, Rouen France;;http://www.restaurantleveaudor.fr;tel:+33 2 35 72 76 60;
+85;La Barbue;236 rue Martainville, 76000, Rouen France;;;tel:+33 6 36 13 50 84;
+86;Bacchus;9 rue du Bac, 76000, Rouen France;;http://www.facebook.com/bacchusbaravin;tel:+33 9 70 92 14 86;
+87;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+88;Les Soeurs Syrienne, Rouen;17 Place Saint Marc, 76000, Rouen France;;http://www.lessoeurssyriennes.fr;tel:+33 2 35 73 57 54;
+89;La Tarte Tatin;Place page 99 Rue de La Vicomté, 76000, Rouen France;;http://www.facebook.com/latartetatin;tel:+33 2 35 89 35 73;
+90;Le Zebre a Pois;17 rue aux Ours, 76000, Rouen France;;http://fr-fr.facebook.com/pages/Le-Z%C3%A8bre-%C3%80-Pois/161349753880942;tel:+33 2 35 70 42 00;mailto:lezebreapois@orange.fr?subject=?
+91;Le Gourmand du Sud Ouest;24 rue Rollon, 76000, Rouen France;;https://www.facebook.com/legourmanddusudouest.rouen/;tel:+33 (0) 35 07 36 08;mailto:dominique.tessal@orange.fr?subject=?
+92;La Taormina;18 rue du Vieux Palais, 76000, Rouen France;;https://www.facebook.com/lataormina/;tel:+33 2 35 70 94 06;
+93;La Pizzeria du Drugstore;2 rue Beauvoisine Absence D'accessibilite Depuis Trop Longtemps, 76000, Rouen France;;http://pizzeriadrugstore.fr;tel:+33 9 82 33 43 18;mailto:contact@pizzeriadrugstore.fr?subject=?
+94;Diner Red Rooster;14 rue du General Leclerc, 76000, Rouen France;;http://www.facebook.com/pages/Diner-Red-Rooster/225823820956316;tel:+33 2 76 61 42 43;
+95;Les Fils à Maman Rouen;232 rue Martainville, 76000, Rouen France;;http://www.lesfilsamaman.com/rouen/;tel:+33 2 27 08 57 45;mailto:paul.bayol@lesfilsamaman.com?subject=?
+96;Mok Rouen;20 B Place Saint Amand, 76000, Rouen France;;https://www.facebook.com/mokrouen/;tel:+33 9 82 58 69 78;
+97;Brasserie Paul;1 Place de la Cathedrale, 76000, Rouen France;;http://www.brasserie-paul.com/index.php;tel:+33 2 35 71 86 07;mailto:brasseriepaul@wanadoo.fr?subject=?
+98;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+99;Delicious;3 rue de l Hopital, 76000, Rouen France;;https://www.facebook.com/deliciousrouen/;tel:+33 7 67 26 68 28;mailto:deliciousrouen@gmail.com?subject=?
+100;Hai Bà;10 rue des Augustins, 76000, Rouen France;;https://www.facebook.com/pg/restohaiba/reviews/;tel:+33 2 35 36 88 75;mailto:vongo.sarl@gmail.com?subject=?
+101;La Bekaa;60 rue de Fontenelle, 76000, Rouen France;;https://www.facebook.com/La-Bekaa-cuisine-libanaise-288995744543848/;tel:+33 2 35 15 58 58;
+102;Namaste;Avenue de Bretagne Centre commercial Saint Sever, 76100, Rouen France;;https://www.facebook.com/namasterouenstsever/;tel:+33 2 35 52 00 76;
+103;Raviolis & Bar;8 rue du General Giraud, 76000, Rouen France;;https://www.facebook.com/Raviolisbarrouen/?modal=admin_todo_tour;tel:+33 2 35 71 57 30;mailto:shizou76@gmail.com?subject=?
+104;Le Dominion;12 rue du Belvedere, 76130 Mont-Saint-Aignan, Rouen France;;http://www.le-dominion.fr/;tel:+33 2 35 71 61 06;mailto:ledominion@orange.fr?subject=?
+105;Hayashi;Centre Commercial de Rouen St-Sever, 76000, Rouen France;;http://www.restaurant-hayashi.fr/;tel:+33 2 35 62 53 27;
+106;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+107;Chez l'Gros;42 rue de la Vicomte, 76000, Rouen France;;https://www.facebook.com/ChezLGros/;tel:+33 2 32 83 57 23;
+108;O'Bangkok;10 rue Perciere, 76000, Rouen France;;https://www.facebook.com/restOBangkok/;tel:+33 9 51 03 52 54;
+109;Cancan;43 Place du Vieux Marche, 76000, Rouen France;;http://cancan-rouen.com;tel:+33 2 35 15 54 34;mailto:frank@cancan-rouen.com?subject=?
+110;L'ardoise;33 allee Eugene Delacroix, 76000, Rouen France;;https://www.facebook.com/Lardoise-453810481817553/;tel:+33 2 35 07 75 15;mailto:corinne.ardoise@orange.fr?subject=?
+111;Taverne St-Amant;11 rue Saint Amand, 76000, Rouen France;;http://tavernesaintamant.fr/;tel:+33 2 35 88 51 34;
+112;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+113;Le Cap Vers;13 rue de la Republique Parking à proximité, 76000, Rouen France;;http://www.facebook.com/lecapvers/;tel:+33 2 35 89 07 09;mailto:lecapversrouen@gmail.com?subject=?
+114;Wooper's;Boulevard Ferdinand de Lesseps C.Cial Docks 76, 76000, Rouen France;;http://www.facebook.com/Woopers-1631280423813004;tel:+33 9 67 58 94 14;
+115;Cafe Saint Vincent;8 Place du Vieux Marche Au Coeur du Centre Ville Tres Ensoleillee, 76000, Rouen France;;;tel:+33 2 35 71 96 51;
+116;Au P'ti Verdot;13 rue du Pere Adam, 76000, Rouen France;;http://www.facebook.com/AU-PTI-VERDOT-145074178892507/timeline/;tel:+33 2 35 36 34 43;
+117;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;;tel:+33 2 35 70 17 15;
+118;Pizza Delice;18 avenue Jean Rondeaux, 76100, Rouen France;;http://www.pizzadelicerouen.fr/;tel:+33 2 35 71 99 99;mailto:pizzadelice76@gmail.com?subject=?
+119;Au Prince des Sables;78 rue Orbe, 76000, Rouen France;;http://www.auprincedesables.fr/;tel:+33 2 35 70 77 40;mailto:soniapointel@hotmail.fr?subject=?
+120;Restaurant La Dune;10 Place des Emmurees, 76100, Rouen France;;http://www.ladune-restaurant.fr;tel:+33 2 35 63 57 86;
+121;Le Rajasthan;17 rue de la Pie, 76000, Rouen France;;http://Wwww.lerajasthan.com;tel:+33 2 32 08 44 18;
+122;Le Bistroquet chez Cedric;220 rue Martainville, 76000, Rouen France;;http://www.lebistroquetchezcedric.fr;tel:+33 2 32 08 09 60;
+123;L'Anticonformiste;11 rue du Pere Adam, 76000, Rouen France;;http://www.facebook.com/Lanticonformiste-1416302895311495/;tel:+33 2 35 07 31 91;
+124;French Coffee Shop;16 rue Thouret, 76000, Rouen France;;http://www.facebook.com/French-Coffee-Shop-Rouen-188756281283397/;tel:+33 2 35 98 65 29;
+125;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+126;Cocoon Bar;46 rue de Fontenelle, 76000, Rouen France;;https://www.facebook.com/cocoonbarrouen76/;tel:+33 6 15 78 37 37;
+127;Les Inities;45 rue aux Juifs, 76000, Rouen France;;http://www.lesinitiesrouen.fr/;tel:+33 2 35 71 54 21;mailto:lesinities@hotmail.fr?subject=?
+128;Le Figuier;31 rue Anatole France, 76000, Rouen France;;https://website--851287666811702674779-restaurant.business.site/;tel:+33 2 35 70 19 10;
+129;Sourire du Tibet;11 rue Saint Sever, 76100, Rouen France;;http://www.souriredutibet.com/;tel:+33 2 35 73 86 41;
+130;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+131;Les Petits Parapluies;46 rue du petit Porche, 76000, Rouen France;;http://www.lesptits-parapluies.com/;tel:+33 2 35 88 55 26;mailto:lespetitsparapluies@hotmail.fr?subject=?
+132;Le Berbere;15 rue des Boucheries Saint Ouen, 76000, Rouen France;;;tel:+33 2 35 98 47 15;
+133;Le Saint Romain;52 rue Saint Romain, 76000, Rouen France;;https://www.facebook.com/Le-Saint-Romain-323874421890159/?ref=search&__tn__=%2Cd%2CP-R&eid=ARCnup8wMmRaAdxb1slraOhA9479Nva79tu49fgYrCfi19WyAUGRw1CU-f2YRNd7aqfK36S_178BUknF;tel:+33 2 35 88 90 36;
+134;Brasserie Midi Vin;9 Place de l Eglise, 76130 Mont-Saint-Aignan, Rouen France;;http://www.brasserie-midivin.fr/;tel:+33 2 35 74 21 00;
+135;La Régalière;12 rue Massacre, 76000, Rouen France;;;tel:+33 2 35 15 33 33;
+136;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+137;B52;52 rue du General Leclerc, 76000, Rouen France;;http://www.facebook.com/b52rouen/;tel:+33 9 81 86 29 28;mailto:b52.rouen@gmail.com?subject=?
+138;Palais d'Asie;33 rue Saint Etienne des Tonneliers, 76000, Rouen France;;;tel:+33 2 35 89 47 24;
+139;SUN;100 rue Ganterie, 76000, Rouen France;;http://www.sun-japonais.com;tel:+33 2 32 08 09 49;
+140;LE PALAIS INDIEN;93 rue Bouvreuil, 76000, Rouen France;;http://www.lepalaisindien.com;tel:+33 2 35 07 31 59;
+141;Alyio Nouchka;64 rue Cauchoise, 76000, Rouen France;;https://www.facebook.com/Alyio-Nouchka-135333599848287/?fref=ts;tel:+33 2 32 08 69 88;
+142;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+143;Le Jm's Café;2 Place du Vieux Marche, 76000, Rouen France;;http://jms-cafe.business.site;tel:+33 2 35 98 68 69;
+144;O’Baristo;1 rue de la Pie Place du Vieux Marché, 76000, Rouen France;;http://www.facebook.com/restaurantobaristo;tel:+33 2 35 88 21 68;mailto:contact@obaristo.com?subject=?
+145;Maison Hardy;22 Place du Vieux Marche, 76000, Rouen France;;http://maisonhardy.fr;tel:+33 2 35 71 81 55;
+146;Nachos;Boulevard Ferdinand De Lesseps Centre Commercial Docks 76, 76000, Rouen France;;http://nachos.fr/;tel:+33 2 35 72 02 05;mailto:contact@nachos.fr?subject=?
+147;Ariana Restaurant;14 rue Victor Hugo Quartier Saint Marc, 76000, Rouen France;;http://restariana.chez.com/;tel:+33 2 35 15 18 08;
+148;Hygge;15 rue Sainte Croix des Pelletiers, 76000, Rouen France;;https://www.facebook.com/hyggerouen;tel:+33 2 35 52 09 90;mailto:hyggerouen@gmail.com?subject=?
+149;Le Joubeil;52 rue des Augustins, 76000, Rouen France;;https://joubeil.business.site/;tel:+33 2 35 70 11 75;
+150;LA MIGA;17 rue du Pere Adam, 76000, Rouen France;;http://www.lamiga.fr;tel:+33 9 80 31 05 63;mailto:contact@lamiga.fr?subject=?
+151;Restaurant Ikat;110 rue Saint Hilaire, 76000, Rouen France;;http://ikat-restaurant.fr/;tel:+33 2 35 98 74 55;mailto:ikat.restaurant@gmail.com?subject=?
+152;Dinette;31 rue Perciere, 76000, Rouen France;;https://www.facebook.com/pg/D%C3%AEnette-restaurant-rouen-1715935808720522/about/?ref=page_internal;tel:+33 2 35 15 49 46;
+153;L'Etoile D'Or;21 Place du Lieutenant Aubert, 76000, Rouen France;;http://www.cityvox.fr/restaurants_rouen/l-etoile-d-or_200059340/Profil-Lieu;tel:+33 2 35 71 05 13;
+154;Le Kerso;19 rue de la Pie, 76000, Rouen France;;https://www.facebook.com/KERSO-cr%C3%AAperie-289081628334061/;tel:+33 7 82 47 27 02;
+155;Fujiya sushi - Le Petit Quevilly;83 boulevard du 11 Novembre, 76140 Le Petit Quevilly, Rouen France;;http://www.fujiyasushi.fr/restaurants-fujiya-sushi-le-petit-quevilly.html;tel:+33 2 32 12 15 29;
+156;le reverbere;9 Place de la Republique, 76000, Rouen France;;http://www.le-reverbere-rouen.fr/;tel:+33 2 35 07 03 14;mailto:contact@le-reverbere-rouen.fr?subject=?
+157;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+158;Plaza Paella Tapas;24 boulevard des Belges, 76000, Rouen France;;http://www.plaza-paella-tapas.fr;tel:+33 2 35 89 25 40;mailto:contact@plaza-paella-tapas.fr?subject=?
+159;La Walsheim;260 rue Martainville, 76000, Rouen France;;http://www.lawalsheim.fr/;tel:+33 2 35 98 27 50;
+160;Le Paradis du Fruit;1 boulevard Ferdinand de Lesseps Docks 76, 76000, Rouen France;;http://www.leparadisdufruit.fr;tel:+33 2 35 15 93 88;mailto:serviceclient@leparadisdufruit.fr?subject=?
+161;Lauryl's;25 rue des Bonnetiers, 76000, Rouen France;;http://lauryls.business.site;tel:+33 2 35 71 87 06;mailto:laurylsrestaurant@gmail.com?subject=?
+162;Marcel Apero Bistro;39 Place du Vieux Marche, 76000, Rouen France;;http://marcel-rouen.fr/;tel:+33 2 35 07 56 90;mailto:contact@marcel-rouen.fr?subject=?
+163;El Palazzo;8 allee Eugene Delacroix, 76000, Rouen France;;https://www.facebook.com/ElPalazzo/;tel:+33 2 35 15 33 29;
+164;La Terrasse;7 Place du Vieux Marche, 76000, Rouen France;;http://www.la-terrasse-rouen.fr/;tel:+33 2 35 88 17 92;mailto:laterrasserouen@gmail.com?subject=?
+165;Saveurs de Chine;43 rue Saint Eloi, 76000, Rouen France;;http://saveursdechine76.fr;tel:+33 2 35 36 24 33;mailto:echoshi76@gmail.com?subject=?
+166;Chez Mathilde;164 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/chezmathilde.fr/;tel:+33 2 35 07 56 25;mailto:hello@chezmathilde.fr?subject=?
+167;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+168;Moshi Moshi;51 rue de la Republique, 76000, Rouen France;;http://www.moshimoshi-rouen.fr/;tel:+33 2 35 88 57 12;mailto:contact@moshimoshi-rouen.fr?subject=?
+169;Coyote Cafe;5 rue du Bac, 76000, Rouen France;;http://coyote-cafe.fr/;tel:+33 2 35 71 22 16;mailto:contact@coyote-cafe.fr?subject=?
+170;Studio Fricot;71 rue Saint Nicolas Près cathédrale, 76000, Rouen France;;https://www.facebook.com/studiofricot/;tel:+33 2 35 00 77 49;
+171;La Conjuration Des Fourneaux;149 rue Saint Hilaire, 76000, Rouen France;;http://www.laconjurationdesfourneaux.blogspot.in;tel:+33 9 50 48 75 89;mailto:laconjurationdesfourneaux@gmail.com?subject=?
+172;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+173;Pierre Champion;24 rue Rollon, 76000, Rouen France;;https://www.facebook.com/pages/category/European-Restaurant/260894360671711/;tel:+33 2 35 07 36 08;
+174;Les Brigades du Kitsch;21 rue des Bons Enfants, 76000, Rouen France;;http://www.facebook.com/Les-Brigades-du-kitsch-712413418870165/;tel:+33 2 35 70 60 01;
+175;Bambou;32 rue des Fosses Louis VIII Nouvelle Adresse, 76000, Rouen France;;;tel:+33 7 81 90 47 84;
+176;Restaurant L'Espiguette;Place Saint Amand, 76000, Rouen France;;http://fr.gaultmillau.com/restaurant/l-espiguette;tel:+33 2 35 71 66 27;
+177;Brasserie les 2 Rois;15 Place de la Pucelle D Orleans, 76000, Rouen France;;http://www.hotelsparouen.com/restaurant.php;tel:+33 2 35 14 50 50;mailto:info@hotelsparouen.com?subject=?
+178;Maitre Corbeau;4 rue du Basnage, 76000, Rouen France;;http://www.maitre-corbeau.com;tel:+33 2 35 89 98 00;mailto:info@maitre-corbeau.com?subject=?
+179;Tavola Calda Bistrot;29 rue Damiette, 76000, Rouen France;;http://www.facebook.com/Tavola-Calda-Bistrot-265937116819012/;tel:+33 2 35 52 02 70;mailto:tavolacaldabistrot@gmail.com?subject=?
+180;Les Fondues De La Marmotte;25 rue du Vieux Palais, 76000, Rouen France;;http://www.facebook.com/LaMaisonsDesFonduesRouenLOfficielle/;tel:+33 2 35 76 76 76;mailto:foodblvd1@gmail.com?subject=?
+181;L'addition;509 Contre allee route de Neufchatel, 76230 Isneauville, Rouen France;;https://www.facebook.com/pages/category/Restaurant/LAddition-200975133699140/;tel:+33 2 35 60 86 32;mailto:l.addition@outlook.com?subject=?
+182;Taste of Tandoori;193 Rue St Julien St Sever, 76100, Rouen France;;http://tasteoftandoori-rouen.strikingly.com;tel:+33 2 35 62 31 88;
+183;Le Pied de Poule;16 rue Victor Hugo, 76000, Rouen France;;https://www.facebook.com/Le-Pied-de-Poule-1625037737715482/;tel:+33 2 35 08 24 03;
+184;Nachos;154 rue du Gros Horloge, 76000, Rouen France;;http://nachos.fr;tel:+33 2 35 00 72 66;mailto:contact@nachos.fr?subject=?
+185;Au Feu De Bois Maison Hector;70 rue de la Motte, 76140 Le Petit Quevilly, Rouen France;;https://www.facebook.com/Au-Feu-De-Bois-Maison-Hector-768771379833115;;
+186;Le Kashemir;13 rue Anatole France, 76000, Rouen France;;http://www.lekashemir-rouen.fr/;tel:+33 2 35 71 85 89;mailto:a.ashfaq76@gmail.com?subject=?
+187;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+188;Le Bistrot des 4 Saisons;59 rue d Amiens, 76000, Rouen France;;http://www.lebistrotdes4saisons.fr;tel:+33 2 35 70 28 10;
+189;Le Central;8 rue du Bec, 76000, Rouen France;;https://www.facebook.com/Le-Central-350755788439093/;tel:+33 2 35 70 14 00;
+190;bolibol;6 rue Massacre, 76000, Rouen France;;http://bolibol.fr;tel:+33 2 32 83 98 20;mailto:hello@bolibol.fr?subject=?
+191;La Fleche Brasserie;14 Place de la Calende, 76000, Rouen France;;;tel:+33 2 35 71 95 61;
+192;Le Bistrot Parisien;77 rue d Amiens, 76000, Rouen France;;http://www.bistrot-rouen.fr;tel:+33 2 35 36 92 71;mailto:barrande.eric@orange.fr?subject=?
+193;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+194;Burger Green;120 rue du General Leclerc, 76000, Rouen France;;https://www.facebook.com/BurgerGreenRouenBioFaitMaisonSolidaire/;tel:+33 6 13 47 21 78;mailto:burgergreenrouen@gmail.com?subject=?
+195;Pagani;26 Rampe Cauchoise, 76000, Rouen France;;http://www.pagani.pizza;tel:+33 2 35 70 95 52;mailto:hello@pagani.pizza?subject=?
+196;La Boite a Biere;35 rue Cauchoise, 76000, Rouen France;;http://www.laboiteabieres.fr;tel:+33 2 35 07 76 47;
+197;Aux 3 Bonheurs;8, rue de Crosne, Rouen, Rouen France;;http://www.aux3bonheurs.fr;tel:+33 2 35 88 87 88;mailto:contact@aux3bonheurs.fr?subject=?
+198;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+199;Le Carreau des Halles;Avenue Du Commandant Bernard Bicheray, 76000, Rouen France;;https://www.facebook.com/Le-Carreau-des-Halles-1215745111778343/;tel:+33 2 35 70 94 69;
+200;Le Machacha;42 quai Cavelier de la Salle, 76100, Rouen France;;;tel:+33 2 35 73 10 01;
+201;Delirium Cafe;30 rue des Vergetiers, 76000, Rouen France;;http://www.facebook.com/DeliriumCafeRouen;tel:+33 9 66 98 05 95;
+202;Make & Eat;66 rue de la Republique, 76000, Rouen France;;https://www.facebook.com/pg/MakeAndEatRouen/about/?ref=page_internal;;
+203;Auberge Saint-Jacques;547 Route de Gournay Saint Jacques sur Darnetal, 76160, Rouen France;;http://www.aubergesaintjacques.com/;tel:+33 2 35 23 79 04;mailto:auberges-saint-jacques@orange.fr?subject=?
+204;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+205;Le Popcorn;21 rue du Vieux Palais, 76000, Rouen France;;https://le-popcorn.business.site/;tel:+33 2 35 36 53 39;
+206;Little Italy;7 rue Beauvoisine, 76000, Rouen France;;http://fr-fr.facebook.com/Littleitalyrouen;tel:+33 2 35 15 21 78;mailto:atomeo@hotmail.fr?subject=?
+207;Au QG;4 rue Ecuyere, 76000, Rouen France;;https://www.facebook.com/AuQGRouen/?rf=277361932295404;tel:+33 9 52 95 39 55;mailto:auqg.daveo@yahoo.fr?subject=?
+208;Les Concessions;150 rue Eau de Robec, 76000, Rouen France;;https://www.facebook.com/Restaurant-Les-Concessions-575795472915319/;tel:+33 9 82 58 24 91;
+209;Le Bakoua;20 rue du Vieux Palais, 76000, Rouen France;;https://www.facebook.com/Le-Bakoua-124304914341462/;tel:+33 2 35 89 25 55;mailto:fabriceguidezbakoua@orange.fr?subject=?
+210;Delhi;15 Place Saint Marc, 76000, Rouen France;;https://www.facebook.com/DelhiRestaurant/;tel:+33 2 35 15 16 33;
+211;Yvonne;119 rue Jeanne D Arc, 76000, Rouen France;;http://maisonyvonne.fr;tel:+33 2 35 71 67 33;
+212;Crunchy Mellow;237 rue Eau de Robec, 76000, Rouen France;;http://www.facebook.com/CrunchyMellow/;tel:+33 9 70 92 18 06;
+213;Croq'Saison;76 rue du General Leclerc, 76000, Rouen France;;http://croqsaison.fr/;tel:+33 2 35 98 41 96;mailto:contact@croqsaison.fr?subject=?
+214;La Cabane à Mijo;Quais bas rive gauche Pont jeanne d'arc, 76000, Rouen France;;http://lacabaneamijo.com;tel:+33 6 49 74 24 43;mailto:lacabaneamijo@gmail.com?subject=?
+215;Le Druide;78 route de Maromme, 76130 Mont-Saint-Aignan, Rouen France;;;tel:+33 2 35 74 32 00;
+216;Papa Tom;Hangar 10 Quai Ferdinand De Lesseps, 76000, Rouen France;;https://www.facebook.com/papatomrouen/;tel:+33 2 35 98 03 27;mailto:papatomrouen@gmail.com?subject=?
+217;La Casa de las Tapas;49 rue Moliere, 76000, Rouen France;;http://www.lacasadelastapasrouen.fr;tel:+33 2 35 89 20 62;
+218;La FabriK;Espace des Maregraphes Quai de BoisGuilbert, 76000, Rouen France;;http://fabrik-rouen.fr/;tel:+33 2 35 70 70 00;mailto:contact@fabrik-rouen.fr?subject=?
+219;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+220;Le Bamyan;168 rue Martainville, 76000, Rouen France;;;tel:+33 2 35 98 76 33;
+221;Les Saveurs Du Liban;55 rue Saint Hilaire, 76000, Rouen France;;;tel:+33 2 76 00 67 47;
+222;Le P'Tit Creux;38bis, place des Carmes, 76000, Rouen France;;https://www.facebook.com/Le-Ptit-Creux-1533960990151209/about/;tel:+33 2 35 58 24 26;mailto:le.p.tit.creux@orange.fr?subject=?
+223;Quick Grill;8 rue Perciere, 76000, Rouen France;;http://www.facebook.com/Q-G-394425110725945/;tel:+33 9 80 31 28 59;mailto:katig-85@hotmail.com?subject=?
+224;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+225;Perle d'Asie SARL;2 Place de la Republique, 76000, Rouen France;;http://www.restaurant-perledasie.com;tel:+33 2 35 70 51 10;
+226;Café de l'Époque;43 rue Armand Carrel, 76000, Rouen France;;https://www.facebook.com/cafedelepoque;tel:+33 9 51 40 93 26;mailto:cafedelepoquerouen@gmail.com?subject=?
+227;Perle d'Orient;81 rue Saint Sever, 76100, Rouen France;;http://www.perle-dorient.com;tel:+33 9 86 71 89 00;mailto:perledorient76@gmail.com?subject=?
+228;Le Lido;41 rue Armand Carrel, 76000, Rouen France;;;tel:+33 2 35 71 51 09;
+229;Ginette;25-27 Place du Lieutenant Aubert, 76000, Rouen France;;http://www.ginettestore.fr;tel:+33 9 81 10 64 19;mailto:contact@ginettestore.fr?subject=?
+230;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+231;Les Maraichers;37 Place du Vieux Marche Devant l'église Sainte Jeanne d'arc, 76000, Rouen France;;http://www.les-maraichers.fr;tel:+33 2 35 71 57 73;mailto:contact@les-maraichers.fr?subject=?
+232;Restaurant d'application IFA Marcel Sauvage;11 rue du Tronquet IFA Marcel Sauvage, 76825 Mont-Saint-Aignan, Rouen France;;http://www.ifa-rouen.fr/page_IFA.php?page=restaurant_application;tel:+33 2 35 52 85 00;mailto:accueil@ifa-rouen.fr?subject=?
+233;44;44 rue de la Champmesle, 76000, Rouen France;;http://www.facebook.com/Le44rouen/;tel:+33 6 99 55 01 01;
+234;Urban Grill;133 rue Saint Sever, 76100, Rouen France;;;tel:+33 6 58 72 87 66;
+235;Les Petits Parapluies;44 rue Bourg L Abbe, 76000, Rouen France;;http://www.lesptits-parapluies.com;tel:+33 2 35 88 55 26;
+236;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+237;Le Bistronomique;134 rue Saint Julien, 76100, Rouen France;;http://www.lebistronomique.com;tel:+33 2 35 72 58 37;mailto:lebistronomique@gmail.com?subject=?
+238;Les Augustins;13 Place Saint Marc, 76000, Rouen France;;https://www.facebook.com/LesAugustins;;
+239;Le Navy;11 rue des Augustins, 76000, Rouen France;;http://lenavy.fr;tel:+33 2 35 70 01 53;mailto:yachirakly@hotmail.fr?subject=?
+240;Les Beauvoisins;21 rue Beauvoisine, 76000, Rouen France;;http://www.facebook.com/lesbeauvoisins/;tel:+33 9 86 76 08 42;
+241;The Moon Pizza & Kebab;3 B rue des Bons Enfants, 76000, Rouen France;;http://mythemoon.com;tel:+33 2 35 62 99 86;mailto:mythemoon@free.fr?subject=?
+242;Le Petit Bar;5 B rue Damiette, 76000, Rouen France;;https://www.facebook.com/LePetitBarCocktails/;tel:+33 7 69 27 07 92;mailto:lepetitbar76@gmail.com?subject=?
+243;Le Pardaillan;Avenue du general de gaulle, 76140 Le Petit Quevilly, Rouen France;;;tel:+33 2 35 03 91 85;
+244;Le 1880 Bar;Place Bernard Tissot Hôtel de Dieppe, 76000, Rouen France;;https://hotel-dieppe.fr/le-1880-bar/;tel:+33 2 78 77 12 79;mailto:contact@hotel-dieppe.fr?subject=?
+245;La P’Tite Jeanne;5 Place de la Cathedrale, 76000, Rouen France;;;tel:+33 2 35 07 11 68;mailto:axele.gosselin76@icloud.com?subject=?
+246;Le Comptoir du Malt;Rue du Mont Perreux Plaine de la Ronce, 76230 Isneauville, Rouen France;;http://www.lecomptoirdumalt.fr/;tel:+33 2 32 19 02 99;mailto:snayet@lecomptoirdumalt.frumalt.fr?subject=?
+247;Citizen Coffee;4 rue de l Ecureuil, 76000, Rouen France;;https://www.facebook.com/BelleCuisineEtBonCafe/;tel:+33 2 35 71 49 42;
+248;Chez Riquette;102 rue Malpalu, 76000, Rouen France;;http://www.facebook.com/pages/Chez-Riquette/202399319777827;tel:+33 2 27 08 40 90;
+249;La Part des Anges;4 Place de la Pucelle D Orleans, 76000, Rouen France;;https://www.facebook.com/pages/category/French-Restaurant/Brasserie-La-PART-DES-Anges-Place-de-la-Pucelle-Rouen-233297176797935/;tel:+33 2 35 07 65 49;
+250;A la Braise;10 rue Saint Vivien, 76000, Rouen France;;https://www.facebook.com/alabraise/;tel:+33 9 73 24 02 34;mailto:nab076@yahoo.fr?subject=?
+251;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+252;La Fee Torchette;21 rue des Augustins, 76000, Rouen France;;https://www.facebook.com/La-F%C3%A9e-Torchette-167373909947540/;tel:+33 9 87 11 85 89;mailto:camtarbleu@yahoo.fr?subject=?
+253;La Kozina De Saint Maclou;158 rue Martainville, 76000, Rouen France;;;tel:+33 2 32 83 73 81;
+254;Les gouts thé de nessie;2 rue Adrien Pasquier, 76000, Rouen France;;http://www.facebook.com/lesgoutsthedeNessie;tel:+33 9 51 60 09 67;
+255;Grazie!;19 rue du Bec, 76000, Rouen France;;https://www.facebook.com/grazierouen/;tel:+33 2 76 61 38 43;mailto:contact@grazie-rouen.fr?subject=?
+256;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+257;Emji;3 Place Dominique Laboubee Rue massacre, 76000, Rouen France;;http://www.emjicafe.fr;tel:+33 2 35 36 66 02;mailto:contact@emjicafe.fr?subject=?
+258;Kenta et Akira;47 B Place du General de Gaulle, 76000, Rouen France;;http://www.facebook.com/P%C3%A2tisserie-Salon-de-th%C3%A9-Kenta-et-Akira-256722547792068;;
+259;Station Service;Allee Eugene Delacroix, 76000, Rouen France;;https://www.facebook.com/stationservicerouen/;tel:+33 2 32 08 66 43;mailto:contact@stationservicerouen.fr?subject=?
+260;Les Papilles en Seine;16 quai Cavelier de la Salle, 76100, Rouen France;;https://www.facebook.com/LesPapillesEnSeine/;tel:+33 2 76 61 13 02;mailto:lespapillesenseine@gmail.com?subject=?
+261;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+262;Le Diplomate;10 Place du Marechal Foch, 76000, Rouen France;;;tel:+33 2 32 10 09 79;
+263;Le Vintage;8 rue Jean Lecanuet, 76000, Rouen France;;http://www.facebook.com/barlevintage/?ref=bookmarks;tel:+33 9 81 94 18 63;
+264;Grill Courtepaille;63 rue Pierre Corneille Allies Park, 76140 Le Petit Quevilly, Rouen France;;https://restaurants-grill.courtepaille.com/restaurants-grillades/rouen-petit-quevilly/237;tel:+33 2 32 18 42 90;
+265;Racine 14;14 rue Racine, 76000, Rouen France;;http://racine14.wix.com/racine14;tel:+33 2 76 00 32 93;
+266;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+267;L'Authentique;47 Place du General de Gaulle, 76000, Rouen France;;https://www.facebook.com/pages/category/Pizza-Place/LAuthentique-Pizzeria-Restaurant-847852808562769/;tel:+33 2 35 71 67 79;
+268;Les Wrapettes;76130 Le Petit Quevilly, Rouen France;;http://www.leswrapettes.fr;tel:+33 6 32 02 22 10;mailto:contact@leswrapettes.fr?subject=?
+269;Mon premier... bar bistrot;1 rue de la Savonnerie, 76000, Rouen France;;http://www.facebook.com/monpremierbarbistrot/;tel:+33 6 87 53 79 53;
+270;Bertin Philippe;4 Place Barthelemy, 76000, Rouen France;;;tel:+33 2 35 88 50 92;
+271;Ker Juliette;Centre Commercial Saint Sever, Avenue de Bretagne, 76100, Rouen France;;https://kerjuliette.fr;tel:+33 6 79 28 22 54;
+272;BiboVino;40 rue Cauchoise, 76000, Rouen France;;http://www.facebook.com/bibovinorouen/;tel:+33 2 35 98 04 48;mailto:rouen@bibovino.fr?subject=?
+273;Le Moliere Rouen;30 rue des Augustins, 76000, Rouen France;;http://le-moliere-bar-rouen.eatbu.com;tel:+33 2 35 15 06 75;
+274;La Tavola;11 Place du Vieux Marche, 76000, Rouen France;;http://www.brasserie-latavola.fr/;tel:+33 2 35 71 46 29;mailto:latavola.rouen@gmail.com?subject=?
+275;Koto-Sushi;30 rue Jeanne D Arc, 76000, Rouen France;;http://www.planetsushi.fr;tel:+33 2 77 70 36 78;mailto:contact@koto-sushi.fr?subject=?
+276;Hôtel Mercure Rouen Centre Cathédrale;7 rue de la Croix de Fer, 76000, Rouen France;;http://www.accorhotels.com/gb/hotel-1301-hotel-mercure-rouen-centre-cathedrale/index.shtml;;mailto:H1301@accor.com?subject=?
+277;Punjab;3 rue des Bons Enfants, 76000, Rouen France;;http://www.facebook.com/lepunjabrouen/;tel:+33 2 79 91 53 92;mailto:contact@punjab-rouen.fr?subject=?
+278;My Hometown Cafe;12 rue du petit Salut, 76000, Rouen France;;https://www.facebook.com/myhometowncaferouen/;tel:+33 2 79 91 33 58;
+279;Chez le Chef Panda;5 rue de la Pie Place du Vieux Marche, 76000, Rouen France;;http://chezlechefpanda.com;tel:+33 2 35 07 55 44;mailto:chezlechefpanda@hotmail.com?subject=?
+280;J Sushi;Mail Andree Putman, 76000, Rouen France;;;tel:+33 2 35 98 28 85;
+281;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+282;le bouchon d Isneauville;1370 route de Neufchatel, 76230 Isneauville, Rouen France;;;tel:+33 2 32 19 44 86;
+283;La Cantine;192 rue Eau de Robec, 76000, Rouen France;;http://lacantinerouen.fr;tel:+33 6 62 81 56 74;mailto:contact@lacantinerouen.fr?subject=?
+284;La Rotonde;61 rue Saint Sever, 76100, Rouen France;;;;
+285;Le Nawaab;7 rue des Augustins, 76000, Rouen France;;;tel:+33 2 32 12 14 01;
+286;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+287;Chez Sophie;67 rue aux Ours, 76000, Rouen France;;https://www.facebook.com/chezsophie.rouen/;tel:+33 2 35 70 05 80;
+288;Casari AfricanFastFood;Avenue de Bretagne Centre Commercial Saint Sever, 76100, Rouen France;;https://www.facebook.com/casari.africanfood/;tel:+33 2 32 10 95 63;
+289;La Cantine Du P'tit Dalloz;32 rue de le Nostre, 76000, Rouen France;;https://www.facebook.com/La-cantine-du-dalloz-204092270390044/;;
+290;Au Wagon;3 rue Maladrerie, 76000, Rouen France;;https://www.facebook.com/auwagonrouen/;tel:+33 2 35 71 45 24;
+291;Poissonnerie des Halles;Place du Vieux Marche Fica No Mercado Antigo, 76000, Rouen France;;;tel:+33 2 35 71 45 84;
+292;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+293;Madame;4 Place Saint Marc, 76000, Rouen France;;http://restaurant-madame.fr/;tel:+33 2 35 07 70 71;mailto:contact@restaurant-madame.fr?subject=?
+294;Bistrot Des Abattoirs;33 rue Henri II Plantagenet En face de la bibliotheque Simone de BEAUVOIR, 76100, Rouen France;;http://www.facebook.com/lebistrotdesabattoirs.rouen/;tel:+33 2 35 72 78 70;
+295;Le Bistrot Des Carmes;37 rue des Carmes, 76000, Rouen France;;;tel:+33 2 35 71 66 89;
+296;Le Vixen Rouen;58 rue Armand Carrel, 76000, Rouen France;;https://www.facebook.com/VIXEN-Rouen-1891248317826968/;;
+297;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+298;Creperie Le Grand Duc;14 Place Cauchoise, 76000, Rouen France;;https://www.le-grand-duc.com;tel:+33 9 67 06 62 07;
+299;Le Duo;71 avenue Jean Jaures, 76140 Le Petit Quevilly, Rouen France;;;tel:+33 2 32 18 71 93;
+300;Chez Pepe et Fils;10 rue du Vieux Palais, 76000, Rouen France;;http://www.chez-pepe.com/;tel:+33 2 35 15 01 50;
+301;Leo a Table;1 rue Georges Braque, 76000, Rouen France;;https://www.facebook.com/L%C3%A9o-%C3%A0-table-648774535333856/;tel:+33 2 76 61 65 65;
+302;Soleil D'Afrique;143 rue Beauvoisine, 76000, Rouen France;;https://soleil-dafrique-rouen.eatbu.com/?lang=en;tel:+33 9 80 44 45 96;
+303;Blotti;30 rue Socrate, 76000, Rouen France;;http://blotti.fr/;tel:+33 2 35 70 63 33;mailto:contact@blotti.fr?subject=?
+304;Le Dauphin;Centre Commercial La Vatine Centre Carrefour, 76130 Mont-Saint-Aignan, Rouen France;;;tel:+33 2 35 60 17 71;
+305;Les Ptits Parapluies;Place de la Rougemare, 76000, Rouen France;;http://www.lesptits-parapluies.com;tel:+33 2 35 88 55 26;
+306;Le Relais Saint Germain;5 Place Saint Germain, 61340 Preaux, Rouen France;;http://www.le-relais-st-germain.com;tel:+33 2 33 73 33 39;mailto:contact@le-relais-st-germain.com?subject=?
+307;Bistrot en Seine;quai Ferdinand de Lesseps Hangar 9, 76000, Rouen France;;http://www.facebook.com/bistrotenseine/;tel:+33 6 46 71 32 06;
+308;So Falafel;62 rue Louis Ricard Pres de la Place Beauvoisine, 76000, Rouen France;;http://www.facebook.com/sofalafel;tel:+33 9 86 29 79 79;mailto:mostafa_y83@yahoo.com?subject=?
+309;Cafe Augustin;11 Place Jacques Lelieur, 76000, Rouen France;;https://www.facebook.com/augustinrouen/;tel:+33 6 69 41 56 71;mailto:coffeeaugustin@gmail.com?subject=?
+310;La Berteliere;1641 Avenue Mesnil Gremichon Qualys Hotel La Berteliere, 76160, Rouen France;;http://www.laberteliere.com;tel:+33 2 35 60 44 00;mailto:laberteliere@wanadoo.fr?subject=?
+311;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+312;L’Echoppe Gourmande;Place de la Calende, 76000, Rouen France;;https://www.facebook.com/L%C3%A9choppe-gourmande-Rouen-1811569005757629/;tel:+33 2 35 00 86 03;
+313;Bchef;8 allee Eugene Delacroix Centre Commercial Espace du Palais, 76000, Rouen France;;https://www.facebook.com/BchefRouenEspaceDuPalais/;;mailto:contact.bchef.rouen@gmail.com?subject=?
+314;Bandol;27 rue Verte, 76000, Rouen France;;;tel:+33 2 35 71 46 43;
+315;Bagelstein;62 rue Jeanne D Arc, 76000, Rouen France;;http://www.bagelstein.com/magasin/67;tel:+33 2 35 36 24 89;mailto:jeannedarc-rouen@bagelstein.com?subject=?
+316;Upick;10 rue Guillaume le Conquerant, 76000, Rouen France;;https://www.facebook.com/UpickRouen;tel:+33 9 86 18 12 60;
+317;Arkose Rouen;181 quai du cours la Reine, 76100, Rouen France;;http://rouen.arkose.com/;tel:+33 2 90 87 01 50;mailto:contactrouen@arkose.com?subject=?
+318;Les Artisans de La calende;1 Place de la Calende, 76000, Rouen France;;;;
+319;Le Petit Bistrot 76;Le Petit Bistrot - 26 Quai Gaston Boulet, 76000, Rouen France;;http://www.facebook.com/PetitBistrotRouen/;tel:+33 2 35 08 92 29;mailto:lepetitbistrot76@gmail.com?subject=?
+320;Les Colonnades;189 rue Saint Julien, 76100, Rouen France;;http://www.facebook.com/Les.Colonnades.Rouen;tel:+33 2 35 72 32 89;
+321;76ème avenue;76 avenue de Caen, 76100, Rouen France;;;tel:+33 2 35 15 80 38;
+322;Topkapi;31 avenue Gustave Flaubert, 76000, Rouen France;;https://www.facebook.com/Topkapi-Rouen-2004337179797369/;tel:+33 2 32 08 47 77;
+323;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+324;Cocorico;Hangar 107 107, allée François Mitterrand, 76100, Rouen France;;http://www.cocorico-rouen.com/;tel:+33 2 78 77 11 36;
+325;Fujiya Sushi - République Rouen;94 rue de la Republique, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 07 15 44;
+326;Le Bistrot Perciere;11 rue Perciere, 76000, Rouen France;;;tel:+33 2 32 10 66 53;
+327;O Verts Galants;6 rue Lucien Vallee, 76140 Le Petit Quevilly, Rouen France;;;tel:+33 2 35 72 32 90;
+328;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+329;Au Club;37 rue de la Croix Vaubois Locaux ASRUC, 76130 Mont-Saint-Aignan, Rouen France;;https://www.facebook.com/AuClub76130/?ref=page_internal;tel:+33 6 30 79 48 29;mailto:contact@cordier-traiteur.com?subject=?
+330;Leya Traiteur Libanais;31 rue Armand Carrel, 76000, Rouen France;;http://www.leya-traiteur.com/;tel:+33 2 35 89 71 82;mailto:contact@leya-traiteur.com?subject=?
+331;Cafe Tabacs de la Gare;109 rue Jeanne D Arc 5 Rue Verte, 76000, Rouen France;;https://www.facebook.com/cafetabacsdelagare/;tel:+33 2 35 71 58 57;
+332;Le Palais de la Biere;178 Rue St Sever, 76100, Rouen France;;http://www.bar-brasserie-rouen.fr/;tel:+33 2 35 72 78 45;
+333;Mi Barrio;4 rue Perciere, 76000, Rouen France;;http://www.facebook.com/mibarriorouen/;tel:+33 6 22 65 92 68;mailto:mibarriorouen@gmail.com?subject=?
+334;Le Relais 31;566 Route de Gournay, 76116, Rouen France;;https://lerelais31.business.site/;tel:+33 2 35 02 12 00;
+335;Le Dragon Gourmand;Avenue Jacques Chastellain Centre Sportif Guy Boissière, 76100, Rouen France;;https://www.facebook.com/ledragongourmand/;tel:+33 2 35 70 21 48;
+336;Le Viennois;32 Place Colbert, 76130 Mont-Saint-Aignan, Rouen France;;http://www.le-viennois.fr/;tel:+33 2 32 10 34 28;
+337;Le QG Des Avenjoueurs;18 rue des Fosses Louis VIII, 76000, Rouen France;;http://www.facebook.com/leQGdesavenjoueurs/;tel:+33 2 35 98 72 90;mailto:qgdesavenjoueurs@gmail.com?subject=?
+338;Ibis Rouen Centre Rive Droite Restaurant;56 quai Gaston Boulet Parking gratuit, 76000, Rouen France;;https://www.accorhotels.com/gb/hotel-0821-ibis-rouen-centre-rive-droite/index.shtml;tel:+33 2 35 70 48 18;
+339;Le Honfleur;12 B avenue Aristide Briand Hotel Mercure Champs de Mars, 76000, Rouen France;;http://www.mercure.com/fr/hotel-1273-hotel-mercure-rouen-champ-de-mars/restaurant.shtml;tel:+33 2 35 52 42 32;
+340;L'Arrivee;33 rue Verte, 76000, Rouen France;;http://www.facebook.com/Larriv%C3%A9e-1566347900321910/;tel:+33 2 35 71 58 61;mailto:ay760@hotmail.com?subject=?
+341;l'olivier;193 rue Saint Julien, 76100, Rouen France;;http://www.cauxcorico.com/restaurant-lolivier-a-rouen;tel:+33 2 35 62 31 88;
+342;Subway;168 Rue Saint Sever, 76100, Rouen France;;https://restaurants.subway.com/france/rouen/168-rue-saint-sever?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=56260&utm_campaign=evergreen-2020;tel:+33 2 32 81 28 59;
+343;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+344;Old Wild West;76 boulevard Ferdinand de Lesseps C.C. Docks 76, 76000, Rouen France;;https://www.oldwildwest.fr/Home;tel:+33 2 35 08 33 59;mailto:rouen@oldwildwest.fr?subject=?
+345;Walabox African & Smart;63 rue de la Republique, 76000, Rouen France;;http://www.walabox.fr;tel:+33 2 35 15 54 23;mailto:contact@walabox.fr?subject=?
+346;L'épicurien;100 boulevard de l Europe, 76100, Rouen France;;https://www.facebook.com/baastienprs/;tel:+33 2 35 62 89 62;
+347;ETIENNE Coffee & Shop;17 Place du Vieux Marche, 76000, Rouen France;;http://www.etienne-coffeeshop.com;tel:+33 6 84 43 72 81;mailto:rouen@cafes-etienne.com?subject=?
+348;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+349;Buffalo Grill;88 boulevard du 11 Novembre, 76140 Le Petit Quevilly, Rouen France;;http://restaurant.buffalo-grill.fr/261564-buffalo-grill-rouen-petit-quevilly;tel:+33 2 35 72 25 25;
+350;La Régalette;35 rue de le Nostre, 76000, Rouen France;;;tel:+33 9 81 60 02 51;
+351;Le Lotus d'Or;63 rue Lafayette, 76100, Rouen France;;;tel:+33 2 35 63 16 22;
+352;Mogador;8 rue de la Chaine, 76000, Rouen France;;http://www.facebook.com/Restaurant-Mogador-298486830605519/;tel:+33 7 83 79 19 08;
+353;Humanity Cafe;98 B rue de la Republique, 76000, Rouen France;;http://humanity-cafe-rouen.eatbu.com/?lang=fr;tel:+33 6 79 10 97 53;mailto:sas-humanity-cafe@orange.fr?subject=?
+354;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+355;Alafut;106 rue Martainville, 76000, Rouen France;;https://www.facebook.com/baralafut/;;mailto:baralafut@gmail.com?subject=?
+356;Le Patio Restaurant;91 rue Ecuyere, 76000, Rouen France;;https://www.facebook.com/Le-Patio-Restaurant-117237672983164/;tel:+33 2 35 15 97 02;
+357;Le Bistro de l'Amiral;30 rue Amiral Cecille, 76100, Rouen France;;;tel:+33 9 73 51 93 31;
+358;Délices de Yifan;20 Place du Vieux Marche, 76000, Rouen France;;http://www.yifan.fr;tel:+33 2 35 07 39 64;mailto:delicesdeyifan@gmail.com?subject=?
+359;Sushi Tokyo;9 rue Verte, 76000, Rouen France;;http://sushitokyo76.fr/;tel:+33 2 76 00 89 32;
+360;Columbus Cafe & Co;54 A rue de la Champmesle, 76000, Rouen France;;http://www.columbuscafe.com/columbus-cafe-rouen/;;mailto:contact@columbus-cafe.com?subject=?
+361;Garden Resto;58 rue des Carmes, 76000, Rouen France;;http://test-zone.fr/;tel:+33 2 35 07 17 07;
+362;Diva des Sens;150 rue Eau de Robec, 76000, Rouen France;;https://www.facebook.com/DivaDesSensChristophe/;tel:+33 9 82 58 24 91;
+363;Le Diapason;8 allee Eugene Delacroix Espace du Palais, 76000, Rouen France;;http://www.lediapason-rouen.fr;tel:+33 2 35 07 64 59;
+364;Le Stromboli Pizza;41 Rue Saint-Etienne-Des-Tonneliers, 76000, Rouen France;;http://lestromboli.free.fr/;tel:+33 2 32 08 49 50;mailto:lestromboli5@free.fr?subject=?
+365;Le Tyrol;36 rue de la Champmesle, 76000, Rouen France;;http://letyrol-brasserie.fr/;tel:+33 2 35 71 14 32;mailto:contact@letyrol-brasserie.fr?subject=?
+366;Pho 76;13 rue de la Champmesle, 76000, Rouen France;;http://pho-76-vietnamese-restaurant.business.site/?utm_source=gmb&utm_medium=referral;tel:+33 9 52 88 50 00;mailto:Pho76Rouen@gmail.com?subject=?
+367;Resto Viet Square Henri IV;22 rue d'Harcourt 55 rue Charette de Place Henri IV, 76000, Rouen France;;https://www.restoviet76.fr/restaurant;tel:+33 2 35 07 37 05;mailto:sarl.henriiv@gmail.com?subject=?
+368;Le Chapitre;58 avenue Gustave Flaubert, 76000, Rouen France;;https://www.facebook.com/LeChapitreRouen/;tel:+33 6 32 28 53 14;
+369;Raviolis & Bar;8 rue du General Giraud, 76000, Rouen France;;https://www.facebook.com/Raviolisbarrouen/?modal=admin_todo_tour;tel:+33 2 35 71 57 30;mailto:shizou76@gmail.com?subject=?
+370;Le Vieux Carré;34 rue Ganterie, 76000, Rouen France;;http://www.hotel-vieux-carre.com/restaurant-hotel-rouen-4.html;tel:+33 2 35 71 67 70;
+371;Blast Burger Shop;14 Place Cauchoise, 76000, Rouen France;;http://www.blastburger.fr;tel:+33 2 32 08 62 07;
+372;L'Ours Noir;rue de Lillebonne Prolongee, 76000, Rouen France;;https://www.facebook.com/LoursNoirBrasserie/;;
+373;Brasserie L'Oxford Café;105 rue Saint Sever, 76100, Rouen France;;;tel:+33 2 35 63 14 90;
+374;Fujiya Sushi Rouen;14 rue Sainte Croix des Pelletiers 14 Rue Sainte-Croix-des-Pelletiers, 76000, Rouen France;;http://www.fujiyasushi.fr;tel:+33 2 35 89 82 00;mailto:contact@fujiyasushi.fr?subject=?
+375;Antico Caffe;11 Place Barthelemy, 76000, Rouen France;;;tel:+33 2 35 98 20 55;mailto:anticocafferouen@gmail.com?subject=?
+376;La Table de Flore;58 rue Cauchoise, 76000, Rouen France;;http://www.latabledeflore.com;tel:+33 6 76 30 20 79;mailto:contact@latabledeflore.com?subject=?
+377;Brasserie JM'S;Place du Vieux Marche, Rouen France;;https://www.facebook.com/JMS-CAFE-218557224865926/;tel:+33 2 35 98 68 69;
+378;Les Folies Douces;Centre Commercial de la Vatine, 76130 Mont-Saint-Aignan, Rouen France;;;tel:+33 2 35 60 12 11;
+379;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+380;Emma;23 allee Eugene Delacroix, 76000, Rouen France;;http://www.emma-patisserie.fr/;tel:+33 2 35 03 88 84;
+381;Le Roi du Poulet;8 avenue Jean Jaures 76140, 76140 Le Petit Quevilly, Rouen France;;http://www.leroidupoulet.com/1client/10_1602/index.php?idca=10&idpro=1602;tel:+33 2 35 03 03 11;
+382;Le Jean Bart;7 quai de la Bourse, 76000, Rouen France;;;tel:+33 2 35 71 97 71;
+383;La Bodega;quai Ferdinand de Lesseps, 76000, Rouen France;;http://bodegaandco.com;tel:+33 2 35 73 08 59;mailto:contact@bodegaandco.com?subject=?
+384;Le Floreal;70 rue Lafayette, 76100, Rouen France;;;;
+385;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+386;New York Coffee;16 Place du Vieux Marche, 76000, Rouen France;;http://www.facebook.com/New-York-Coffee-928504213884842/;tel:+33 2 35 70 79 50;mailto:Shakeman64@hotmail.com?subject=?
+387;Tabac de la Madeleine;21 rue de Constantine, 76000, Rouen France;;;tel:+33 2 35 71 94 57;
+388;Les Cloches De Corneville;51 Rue Carillon, 27500, Rouen France;;https://www.facebook.com/Les-Cloches-de-Corneville-396662683853049/;tel:+33 6 66 83 36 36;
+389;Ito;92 rue de la Republique, 76000, Rouen France;;http://ito-sushi.fr/;tel:+33 2 35 89 95 99;mailto:contact@ito-rouen.com?subject=?
+390;Le Cafe Noir;28 rue de la Republique, 76000, Rouen France;;https://www.facebook.com/le-Caf%C3%A9-Noir-219956698058502/;tel:+33 2 32 12 13 48;
+391;Colette;2 rue Beauvoisine, 76000, Rouen France;;http://www.colettestore.fr;tel:+33 9 82 33 43 18;mailto:contact@colettestore.fr?subject=?
+392;Kelebek;6 rue de l Ancienne Prison, 76000, Rouen France;;;tel:+33 9 84 28 18 23;
+393;sushi shop;6 rue Guillaume le Conquerant, 76000, Rouen France;;https://sushishop.commander1.com/c3/?tcs=2478&chn=seo-yext&src=yext&cmp=annuaires-locaux-FR&med=extnet&pub=&crtive=&vson=&fmt=&cty=FR&url=https%3A%2F%2Fwww.sushishop.fr%3Futm_campaign%3Dannuaires-locaux-FR&utm_source=seo-yext&utm_medium=extnet&y_source=1_MTU1NTA0NjctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D;tel:+33 826 82 66 28;
+394;Les Gourmands Disent;12 Place de la Pucelle D Orleans, 76000, Rouen France;;;;
+395;PUBLIC;4 Place de la Pucelle D Orleans, 76000, Rouen France;;http://m.facebook.com/profile.php?id=113490053434554&ref=content_filter;tel:+33 2 35 07 65 49;
+396;Restaurant Kyriad Rouen Nord Mon- saint-aignan;D121, Mont-Saint-Aignan, Rouen France;;;tel:+33 2 35 59 80 00;
+397;Le 31;28 rue des Emmurees, 76100, Rouen France;;;tel:+33 2 35 72 80 56;
+398;Au Fut et a Mesure;1 rue du Cercle, 76000, Rouen France;;http://www.aufutetamesure.fr;tel:+33 2 35 08 32 28;mailto:contact@aufut.fr?subject=?
+399;Sushi Tea-m;5 rue Ecuyere, 76000, Rouen France;;http://www.facebook.com/sushi.team.rouen/;tel:+33 2 76 61 45 21;mailto:sutimo@free.fr?subject=?
+400;All Sports Café Rouen;Hangar 10 Quai Ferdinand de Lesseps, 76000, Rouen France;;http://www.ascrouen.com/;tel:+33 2 32 76 76 50;mailto:commercial.ascrouen@gmail.com?subject=?
+401;Le Chalet;1 Place de la Verrerie Centre Commercial Saint-Sever, 76100, Rouen France;;https://www.facebook.com/lechaletrouen/;tel:+33 2 35 03 33 13;mailto:lechaletrouen@gmail.com?subject=?
+402;Le Rivoli;10 rue Guillaume le Conquerant, 76000, Rouen France;;;tel:+33 2 35 89 28 15;
+403;La Plancha;8 allee Eugene Delacroix, 76000, Rouen France;;https://laplancha-rouen.business.site/;tel:+33 2 35 88 09 68;mailto:laplancha.rouen@gmail.com?subject=?
+404;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+405;Uludag;18 Place de la Pucelle D Orleans, 76000, Rouen France;;http://www.facebook.com/uludag-kebap-76-263427499382;tel:+33 9 50 43 46 54;
+406;La Comédia;37 rue du Vieux Palais, 76000, Rouen France;;;tel:+33 7 53 97 21 32;
+407;Paul;2 avenue Jean Rondeaux In front of the gas station Esso, 76100, Rouen France;;http://www.paul.fr;tel:+33 2 52 56 99 98;
+408;PandaBox;59 rue d Amiens, 76000, Rouen France;;http://pandabox-restaurant.business.site/;tel:+33 6 98 61 77 51;mailto:pandaboxbento@gmail.com?subject=?
+409;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+410;L'ascot;1 rue de la Vicomte, 76000, Rouen France;;;tel:+33 2 35 71 42 42;
+411;La Diva Des Sens;150 rue Eau de Robec, 76000, Rouen France;;https://www.facebook.com/DivaDesSensChristophe/;tel:+33 9 82 58 24 91;
+412;Le Petit Dalloz;27 rue Duguay Trouin, 76000, Rouen France;;;tel:+33 9 87 56 11 01;
+413;Le Corneille;80 rue du General Giraud, 76000, Rouen France;;;;
+414;Le Grill des Champs;1 rue Pepiniere Sainte-Marie-des-Champs, 76190, Rouen France;;http://grilldeschamps.canalblog.com;tel:+33 2 35 95 47 75;
+415;Le Bovary;31-33 rue du Bec, 76000, Rouen France;;https://www.facebook.com/lebovary/;tel:+33 2 35 70 79 70;
+416;Campanile Rouen Nord Restaurant;Parc de la Vatine 1 rue Jacques Monod, 76130 Mont-Saint-Aignan, Rouen France;;http://www.campanile.com;tel:+33 2 35 59 75 00;
+417;Hot Dog Corner;8 rue de la Croix Verte, 76000, Rouen France;;https://www.facebook.com/hotdogcorner.rouen/;tel:+33 6 34 21 11 55;mailto:hotdogcorner.rouen@gmail.com?subject=?
+418;Le Carré d'Orient;18 rue de l Ancienne Prison, 76000, Rouen France;;https://www.facebook.com/lecarredorient/;tel:+33 9 73 14 97 31;
+419;Le Cass'dal;199 rue Beauvoisine, 76000, Rouen France;;;tel:+33 2 35 71 69 87;
+420;Ici L'adresse Healthy;98 rue Ganterie, 76000, Rouen France;;;tel:+33 6 88 95 93 85;mailto:restaurantici.rouen@gmail.com?subject=?
+421;Le Roi du poulet grillé;1 avenue Jean Rondeaux, 76100, Rouen France;;;tel:+33 2 32 10 68 10;mailto:hervedasilva@hotmail.com?subject=?
+422;LE 607;161 rue Albert Dupuis, 76000, Rouen France;;https://www.facebook.com/Le-607-Rouen-Sandwicherie-437016499735605/;tel:+33 2 35 60 76 07;
+423;L'Escale;2824 route de Duclair, 76360 Villers-Ecalles, Rouen France;;http://www.restaurantescale.fr;tel:+33 2 35 91 66 29;mailto:escale76@gmail.com?subject=?
+424;Allo-Sushi Rouen;92 rue de la Republique, 76000, Rouen France;;http://www.allo-sushi-rouen.fr;tel:+33 2 56 89 02 16;mailto:contact@allo-sushi-rouen.fr?subject=?
+425;O Belges;61 boulevard des Belges, 76000, Rouen France;;;tel:+33 9 52 87 89 49;
+426;La Petite Ardoise;2 Place Saint Marc, 76000, Rouen France;;;tel:+33 2 35 70 46 40;
+427;Le Theatre;84 rue du General Leclerc, 76000, Rouen France;;;tel:+33 2 35 71 07 66;
+428;Ito Kaiten Sushi;3 rue Guillaume le Conquerant, 76000, Rouen France;;http://ito-sushi.fr/;tel:+33 2 35 15 06 47;
+429;Grill Courtepaille;Chemin de la Poudriere A COTé du ZENITH, 76120, Rouen France;;https://restaurants-grill.courtepaille.com/restaurants-grillades/rouen-grand-quevilly/47;tel:+33 2 35 68 40 98;
+430;La Table de Jeanne;11 Place du Vieux Marche, 76000, Rouen France;;http://www.brasserie-latavola.com;tel:+33 2 35 71 46 29;
+431;Le Vascoeuil;106 rue Martainville, 76000, Rouen France;;;tel:+33 2 35 70 27 43;
+432;La Demi Heure;85 rue du General Leclerc, 76000, Rouen France;;https://www.facebook.com/La-demi-heure-234905509859087/;tel:+33 2 35 00 00 00;
+433;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+434;Le Farfelu;102 rue Malpalu, 76000, Rouen France;;http://www.facebook.com/rouenbar/;;
+435;Pizza Gourmet;144 rue Saint Hilaire, 76000, Rouen France;;http://pizza-gourmet.fr;tel:+33 2 22 44 66 88;mailto:pizza.gourmet@icloud.com?subject=?
+436;Social Club;57 Place du Vieux Marche, 76000, Rouen France;;https://www.facebook.com/socialclubrouen/;tel:+33 6 23 19 41 34;mailto:socialclubrouen@gmail.com?subject=?
+437;8Rue;8 rue Perciere, 76000, Rouen France;;;tel:+33 9 73 51 75 70;
+438;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+439;L'Equinoxe;58 rue Jean Lecanuet, 76000, Rouen France;;;tel:+33 2 35 15 47 25;
+440;GANDHI;18 avenue de Bretagne, 76100, Rouen France;;http://www.gandhi-rouen.com;tel:+33 2 35 03 12 20;
+441;L'Acropole;15 Rond Point des Bruyeres, 76140 Le Petit Quevilly, Rouen France;;;tel:+33 2 35 68 70 68;
+442;Bchef;Avenue de Bretagne Centre commercial Saint Sever, 76100, Rouen France;;http://bchef.fr/;tel:+33 2 35 70 46 92;
+443;LA TASSE D'OR;18 rue petit de Julleville, 76000, Rouen France;;;;
+444;Pizzeria Omario;27 rue de Crosne, 76000, Rouen France;;https://pizza-omario.business.site/;tel:+33 2 76 61 46 37;
+445;Le Chris Grill;5 rue de Sotteville, 76100, Rouen France;;;;
+446;Café Victor - Brasserie Hôtel de Dieppe 1880;5 Place Bernard Tissot, 76000, Rouen France;;http://hotel-dieppe.fr/;tel:+33 2 35 71 96 00;mailto:restaurantbar@hotel-dieppe.fr?subject=?
+447;Le P'Tit Bistrot;97 rue Louis Poterat, 76100, Rouen France;;;;
+448;Stylbar;92 avenue du Mont Riboudet, 76000, Rouen France;;;tel:+33 9 54 73 39 58;mailto:stylbar76@gmail.com?subject=?
+449;Aux 4 Coins de France;5 rue Rollon, 76000, Rouen France;;;;
+450;La Part du Gout;20 rue Cauchoise, 76000, Rouen France;;;;
+451;O'kai;5 quai Pierre Corneille, 76000, Rouen France;;;tel:+33 2 35 52 06 92;
+452;Fast Pizza;7 rue Jean Lecanuet, 76000, Rouen France;;http://www.fastpizzarouen.fr/;tel:+33 2 35 15 80 80;
+453;Cosy Lunch;8 Place de la Calende, 76000, Rouen France;;http://www.cosylunch.com;tel:+33 2 35 34 19 44;
+454;Hangar 9;9 quai Ferdinand de Lesseps, 76000, Rouen France;;;tel:+33 2 32 13 20 22;
+455;Ouzbekistan;12 rue des Augustins, 76000, Rouen France;;;tel:+33 6 59 02 12 49;
+456;Café Des Taxis;5 Place du Marechal Foch, 76000, Rouen France;;;tel:+33 9 83 01 57 84;
+457;Night Pizza Pasta;27 avenue du Mont Riboudet À Coté du Mc'Donalds, 76000, Rouen France;;http://night-pizza-pasta.business.site/;tel:+33 9 52 69 17 26;
+458;La Tente Berbere Chicha;25 rue Louis Ricard, 76000, Rouen France;;;tel:+33 2 35 15 44 40;
+459;Yogurt Factory;5 rue Netien, 76000, Rouen France;;;;
+460;Maestro pizza;77 rue de Lessard 77 Rue De Lessard, 76100, Rouen France;;http://www.maestropizza76.fr;tel:+33 2 35 88 88 88;mailto:contact@maestropizza76.fr?subject=?
+461;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+462;L'Usine;9 rue du Renard Place Cauchoise, 76000, Rouen France;;http://www.lusine-rouen.com/;tel:+33 2 76 08 75 50;mailto:contact@lusine-rouen.fr?subject=?
+463;Casa Das Batidas;3 Place du Lieutenant Aubert, 76000, Rouen France;;https://www.facebook.com/brazilcasadasbatidas/info/?entry_point=page_nav_about_item&tab=page_info;tel:+33 9 82 29 61 61;mailto:lebrazilbar@gmail.com?subject=?
+464;Le Napoli;12 rue des Augustins, 76000, Rouen France;;https://www.facebook.com/Le-Napoli-228469644764763/;tel:+33 6 59 68 26 61;
+465;Le Bistrot du Coin;86 rue Martainville, 76000, Rouen France;;https://www.facebook.com/pages/Le-Bistrot-du-Coin/221670527862325;tel:+33 9 86 63 22 30;
+466;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+467;Oni;28 rue des Bons Enfants, 76000, Rouen France;;http://www.restaurant-oni.com;tel:+33 2 35 36 13 06;
+468;Les Antilles;2 Place de la Pucelle D Orleans, 76000, Rouen France;;;tel:+33 2 35 71 03 22;
+469;La Villa H;47 rue Edouard Adam, 76000, Rouen France;;https://www.facebook.com/La.Villa.H76/;tel:+33 6 50 08 79 68;
+470;Good' Up;32 avenue de la Porte des Champs, 76000, Rouen France;;http://www.gooduprouen.fr;tel:+33 2 35 98 55 96;mailto:gooduprouen@gmail.com?subject=?
+471;Le Madras;7 rue des Augustins, 76000, Rouen France;;;tel:+33 2 35 15 47 64;
+472;Le Vandaag;12 rue de la Republique, 76000, Rouen France;;http://levandaag.wix.com/vandaag;tel:+33 9 51 73 50 55;mailto:levandaag@gmail.com?subject=?
+473;Au Bon Accueil;7 rue Charles Besselievre, 76000, Rouen France;;;tel:+33 2 35 70 11 44;
+474;Alex Pizza;14 chem Ferme, 76360 Villers-Ecalles, Rouen France;;https://www.facebook.com/pages/category/Food-Truck/Alex-Pizza-230185611047208/;tel:+33 6 59 01 85 09;
+475;Les Chrysanthèmes;72 rue Saint Sever, 76100, Rouen France;;;tel:+33 2 35 08 07 54;mailto:leschrysanthemes@gmail.com?subject=?
+476;Tu Fais Ta Crepe;rue du Bec, 76000, Rouen France;;https://www.facebook.com/TuFaisTaCrepeRouen/;;
+477;Doctor Waffles;29 rue du Bec, 76000, Rouen France;;http://www.facebook.com/doctorwafflesrouen/;tel:+33 6 24 20 49 52;
+478;Mon P’tit Hanoi;30 rue des Fosses Louis VIII, 76000, Rouen France;;http://monptithanoi.fr;tel:+33 7 62 66 03 60;
+479;Tea Shop & Co.;17 rue desBoucheries Saint-Ouen, 76000, Rouen France;;http://www.luckytea.fr;;
+480;Woki;118 rue Beauvoisine, 76000, Rouen France;;https://www.facebook.com/Woki76/;tel:+33 9 81 99 45 63;mailto:woki76000@gmail.com?subject=?
+481;Coeur de Ble;Rue Francois Perroux, Rue de la Vatine Centre commercial Carrefour La Vatine, 76130 Mont-Saint-Aignan, Rouen France;;http://restaurants.casino-restauration.fr/casino_restauration/normandie/seine-maritime/mont-saint-aignan/DM454-CDB/rouen-mont-saint-aignan;tel:+33 3 33 59 19 93;
+482;Coisy Bistronomie;12 rue Boucicaut, 76130 Mont-Saint-Aignan, Rouen France;;https://www.facebook.com/coisy.traiteur/;tel:+33 2 35 32 20 20;
+483;Euro Cafe;41 Place du Vieux Marche, 76000, Rouen France;;http://l-euro.fr/;tel:+33 2 35 07 55 66;mailto:contact@l-euro.fr?subject=?
+484;Erkan Simsek;85 rue d Amiens, 76000, Rouen France;;;tel:+33 2 35 88 42 27;
+485;A la Braise Doree;143 rue Beauvoisine, 76000, Rouen France;;;tel:+33 9 80 44 45 96;
+486;L'Assiette du Boulanger;26 Mail Andree Putman, 76000, Rouen France;;https://www.facebook.com/emmalbane/;tel:+33 2 35 08 48 78;
+487;L Arret Gourmand;9 rue Jeanne D Arc Place Theatre Des Arts, 76000, Rouen France;;https://www.facebook.com/Larr%C3%AAt-Gourmand-Rouen-869208440123531/;;
+488;Le Mazagran;20 rue Flahaut, 76000, Rouen France;;;;
+489;McDonald's;150 rue Saint Sever, 76100, Rouen France;;http://www.restaurants.mcdonalds.fr/mcdonalds-rouen-saint-sever;tel:+33 2 35 72 01 01;
+490;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+491;Aux Delices des Carmes;48 Place des Carmes, 76000, Rouen France;;;tel:+33 899 87 47 77;
+492;L' Atelier;30 rue des Fosses Louis VIII, 76000, Rouen France;;;tel:+33 2 35 07 31 55;
+493;Cafe Du Marche;98 rue Martainville, 76000, Rouen France;;;;
+494;Le Carpe Diem;7 Place du Vieux Marche, 76000, Rouen France;;;tel:+33 2 35 88 17 92;
+495;The Maharaja;15 rue Damiette, 76000, Rouen France;;http://www.lemaharaja.com;tel:+33 2 35 88 87 47;mailto:info@lamaharaja.com?subject=?
+496;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+497;Le Fournil Du Carre D'Or;44 rue Saint Nicolas, 76000, Rouen France;;https://www.facebook.com/Le-Fournil-Du-Carr%C3%A9-DOr-944182695715583/;tel:+33 2 76 61 16 73;
+498;Masako Pâtisserie;5 rue de Quebec, 76000, Rouen France;;http://www.masakopatisserie.com/;;
+499;L'Assiette Gourmande;Hameau de bertheauville Paluel, 76450, Rouen France;;;tel:02 3 5 97 1;
+500;Galaxy;34 route de Darnetal, 76000, Rouen France;;https://www.galaxypizzeria.fr/;tel:+33 2 77 07 60 70;
+501;Believe Again;12 rue Jeanne D Arc, 76000, Rouen France;;;tel:+33 2 35 03 04 99;
+502;Salon de;162 Place Henri IV, 76000, Rouen France;;;tel:+33 7 60 81 18 44;mailto:thezhenart@gmail.com?subject=?
+503;Les Maronniers;1552 route de Neufchatel, 76230 Isneauville, Rouen France;;;tel:+33 2 35 60 57 37;
+504;Biggy Food;45 rue Cauchoise, 76000, Rouen France;;http://www.facebook.com/biggyfoodrouen/;tel:+33 2 35 08 54 69;mailto:biggyfood.cm@gmail.com?subject=?
+505;Emma;1220 route de Neufchatel, 76230 Isneauville, Rouen France;;;tel:+33 2 32 80 67 58;
+506;Le 607;1571 Rue Aristide Briand, 76650, Rouen France;;http://www.le607.fr;tel:+33 2 35 68 02 74;
+507;Rev'art Jungle;Boulevard Ferdinand de Lesseps Centre commercial Dock 76, 76000, Rouen France;;http://revart-jungle.fr;tel:+33 9 86 52 77 17;mailto:contact@revart-jungle.fr?subject=?
+508;Okinawa;5 rue de la Pie, 76000, Rouen France;;http://okinawa-rouen.fr/;tel:+33 2 35 07 55 44;
+509;AUX THES DE JEANNE;70 rue Saint Romain Salon de the, 76000, Rouen France;;;;
+510;Le Pacha;13 rue Verte, 76000, Rouen France;;https://www.facebook.com/Pacha-Rouen-467215479992444/;tel:+33 2 35 15 07 84;
+511;Ottoman Palace;42 avenue des Canadiens, 76140 Le Petit Quevilly, Rouen France;;http://www.ottomanpalace.fr;tel:+33 2 35 15 33 45;
+512;Le Guillaume;21 rue Guillaume le Conquerant, 76000, Rouen France;;http://leguillaume-rouen.fr;tel:+33 9 73 50 12 13;mailto:hacenadouane93@yahoo.fr?subject=?
+513;Sisley Le Restaurant;Musee des Beaux-Arts Esplanade Marcel Duchamp, Rouen France;;http://www.rouen-musees.com/Restaurant;;
+514;Le Restaurant d'Aumale;15 Place de la Pucelle D Orleans, 76000, Rouen France;;http://www.hotelsparouen.com/;tel:+33 2 35 14 50 50;mailto:info@hotelsparouen.com?subject=?
+515;Bar Fo's Café;9 rue Socrate, 76000, Rouen France;;;tel:+33 2 35 07 62 10;
+516;Brasco;12 Place Saint Sever, 76100, Rouen France;;https://www.facebook.com/brascosaintsever/;tel:+33 6 51 37 57 02;
+517;Quick;Avenue De Bretagne, 76100, Rouen France;;https://www.quick.fr/rouen-saint-sever;tel:+33 2 35 73 97 93;
+518;6'S Pizza;98 rue d Elbeuf, 76100, Rouen France;;https://www.facebook.com/6Spizza/;;
+519;Subway;4 Rue de Saint Lo, 76000, Rouen France;;https://restaurants.subway.com/france/rouen/4-rue-de-saint-lo?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=36223&utm_campaign=evergreen-2020;tel:+33 2 35 03 14 01;
+520;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+521;Restaurant A La Bonne Heure;CC La vatine Central Commercial La Vatine, 76130 Mont-Saint-Aignan, Rouen France;;http://restaurants.casino-restauration.fr/casino_restauration/haute-normandie/seine-maritime/mont-saint-aignan/DM454-ALBH/rouen-mont-saint-aignan;tel:+33 2 35 59 19 93;mailto:cafdm454@groupe-casino.fr?subject=?
+522;Café de Rouen;Place Jeanne d'Arc, 76000, Rouen France;;;tel:+33 2 35 88 70 55;
+523;Au Bureau Rouen;Batiment D4 Espace des Maregraphes, 76000, Rouen France;;https://www.aubureau.fr/resto/Au-Bureau-Rouen;tel:+33 2 35 15 92 40;mailto:pubenseine@orange.fr?subject=?
+524;Mostacos;122 rue du Gros Horloge, 76000, Rouen France;;http://www.mostacos.fr;tel:+33 9 54 82 17 19;mailto:contact@mostacos.fr?subject=?
+525;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+526;Les Histoires;95 rue Ecuyere, 76000, Rouen France;;;tel:+33 2 95 15 97 02;
+527;Domino's Pizza;100 rue de la Republique, 76000, Rouen France;;https://www.dominos.fr/magasin/rouen-centre_76000?y_source=1_MTQ4MjI0OTAtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D;tel:+33 2 35 72 72 72;
+528;Brasserie Café de L'echiquier;8 allee Eugene Delacroix Espace du Palais, 76000, Rouen France;;;tel:+33 2 35 71 71 35;
+529;Ströke Restaurant;5 quai de Boisguilbert Hangar E, Espace des Maregraphes, 76000, Rouen France;;http://www.strokerestaurant.fr/fr;tel:+33 2 32 10 10 01;
+530;Brasserie L'Express;Avenue de Bretagne Centre Commercial Saint-Sever, 76100, Rouen France;;https://www.facebook.com/Brasserie-LExpress-297696400331279/;tel:+33 2 35 63 14 90;
+531;So;Hanger quai Ferdinand de Lesseps, 76000, Rouen France;;http://www.so-rouen.com;tel:+33 2 35 23 71 19;mailto:contact@so-rouen.com?subject=?
+532;Sushi Club;30 rue Saint Vivien, 76000, Rouen France;;http://www.Sushiclub-Rouen.Fr;tel:+33 2 35 62 75 49;
+533;Le Vicomté;70 rue de la Vicomte, 76000, Rouen France;;http://www.levicomte-rouen.com/;tel:+33 2 35 71 24 11;mailto:levicomte@orange.fr?subject=?
+534;L'Interlude;4 Place Saint Vivien, 76000, Rouen France;;https://www.facebook.com/Linterlude-1535024046796379/;tel:+33 2 35 71 03 06;
+535;Kheops Restaurant;87 rue Martainville, 76000, Rouen France;;;tel:+33 2 32 10 33 19;
+536;Pub O'Kallaghan's;13 Place du General de Gaulle, 76000, Rouen France;;https://www.facebook.com/pg/okallaghans76/about/?ref=page_internal;tel:+33 2 35 71 46 55;
+537;El Paseo;31 rue Perciere, 76000, Rouen France;;;tel:+33 2 35 15 80 32;
+538;Quick;Centre Commercial Saint Sever, 76046, Rouen France;;http://www.quick.fr/rouen-saint-sever;tel:+33 2 35 73 97 93;
+539;Brioche Doree;6/12 Rue Paul Doumer Centre Commercial St Sever, 76000, Rouen France;;https://www.briochedoree.fr/restaurants/526-rouen-c.cial-st-sever;tel:+33 2 35 63 29 60;
+540;O’Delice;194 avenue du Mont Riboudet, 76000, Rouen France;;;tel:+33 2 35 15 27 26;
+541;Bar des Fleurs;Place des Carmes, 76000, Rouen France;;http://www.bardesfleurs.com;tel:+33 2 35 88 54 09;mailto:beauloo.rouen@gmail.com?subject=?
+542;La Creperie des Docks;Centre Commercial Docks 76, 76000, Rouen France;;;tel:+33 2 35 98 74 64;
+543;Bar Jeanne d'Arc;14 Place de la Pucelle D Orleans, 76000, Rouen France;;;;
+544;Pizza Gusto;51 B rue Pavee, 76100, Rouen France;;;tel:+33 2 32 08 64 48;
+545;Cafe Brun;84 rue Cauchoise, 76000, Rouen France;;;;
+546;Subway;111 B rue Jeanne D Arc, 76000, Rouen France;;https://restaurants.subway.com/france/rouen/111-bis-rue-jeanne-d'arc?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=52967&utm_campaign=evergreen-2020;tel:+33 2 35 98 19 16;
+547;Le Maregraphe;Quai de Bois Guilbert Hangar B, Espace Maregraphes, 76000, Rouen France;;https://www.facebook.com/maregraphe/;tel:+33 2 35 15 15 15;mailto:lemaregraphe.rouen@gmail.com?subject=?
+548;Subway;36 Rue Armand Carrel, 76000, Rouen France;;https://restaurants.subway.com/france/rouen/36-rue-armand-carrel?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=52363&utm_campaign=evergreen-2020;tel:+33 2 32 12 14 95;
+549;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+550;Pizza Hut;60 boulevard des Belges, 76000, Rouen France;;https://www.pizzahut.fr/huts/fr-1/38-rouen-bd-des-belges/?utm_source=google&utm_medium=maps&utm_campaign=web_url&y_source=1_MTEzMzUwMTctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D;tel:+33 2 35 98 37 08;mailto:service.consommateurs@pizzahut.fr?subject=?
+551;My Pub;12 Place du Vieux Marche, 76000, Rouen France;;https://www.facebook.com/mypubrouenfr/about/;tel:+33 2 35 36 29 50;
+552;Burger King;1 boulevard Charles de Gaulle, 76140 Le Petit Quevilly, Rouen France;;https://www.burgerking.fr/restaurant/rouen-petit-quevilly;tel:+33 2 35 15 36 51;
+553;Hanoi Gourmet;80 rue Martainville Arrêt de bus pour Téor T1, T2, T3 : Martainville, 76000, Rouen France;;http://www.facebook.com/HanoigourmetRouen/;tel:+33 6 71 80 76 85;mailto:thiminhhavuong@gmail.com?subject=?
+554;Francesca;76 boulevard Ferdinand de Lesseps, 76000, Rouen France;;http://www.francesca.com/;tel:+33 2 35 70 66 30;
+555;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+556;Vapiano;Avenue de Bretagne Centre Commercial St Sever, 76100, Rouen France;;http://rouen-saintsever.vapiano.fr/;tel:+33 2 57 54 50 82;
+557;La Piazza Feu de Bois;2 rue de Bapeaume, 76000, Rouen France;;http://www.lapiazza-feudebois.fr/;tel:+33 2 35 00 35 00;mailto:info@lapiazza-feudebois.fr?subject=?
+558;Les Andalouses;22 rue du General Giraud, 76000, Rouen France;;;tel:+33 2 35 07 06 06;
+559;Sushi & Roll;76 boulevard Ferdinand de Lesseps 76 Boulevard Ferdinand de Lesseps, 76000, Rouen France;;http://www.docks76.com/W/do/centre/fiche-restaurant-sushi&roll;tel:+33 2 35 98 37 07;
+560;Le Chat Noir;82 le Loi, 76100, Rouen France;;;tel:+33 6 40 17 65 71;
+561;Dominute Pizza Rouen;Rue, Rouen France;;;;
+562;Gr-Eat;8 avenue Pasteur, 76000, Rouen France;;;;
+563;Bchef Rouen Saint Sever;Avenue De Bretagne Centre Commercial Saint Sever, 76100, Rouen France;;http://bchef.fr/;;mailto:bchef.saintsever2@gmail.com?subject=?
+564;River's Pub;Hangar 107 Quai Jean de Béthancourt, 76000, Rouen France;;https://www.facebook.com/riverspub/;tel:+33 2 78 77 09 99;mailto:contact@riverspub.com?subject=?
+565;Flunch;Centre Commercial Docks 76, 76047, Rouen France;;http://restaurant.flunch.fr/rouen-cedex/flunch-rouen-les-docks/;tel:+33 2 35 71 58 58;
+566;Sushi Tong;2 Place de la Republique, 76000, Rouen France;;http://sushirouen.com/;tel:+33 2 35 15 18 23;
+567;Sole Mio;122 rue Martainville, 76000, Rouen France;;;tel:+33 2 35 71 09 70;
+568;Burger King;CC. Continent, 76130 Mont-Saint-Aignan, Rouen France;;https://restaurants.burgerking.fr/rouen-mont-saint-aignan;tel:+33 2 35 02 18 96;
+569;Le Live Cafe;58 rue Armand Carrel, 76000, Rouen France;;https://www.facebook.com/Le-Live-Rouen-564694060251337/;tel:+33 2 77 76 14 97;mailto:leliverouen@gmail.com?subject=?
+570;Golden Gate Rouen;2 B avenue Pasteur, 76000, Rouen France;;https://www.facebook.com/Golden-Gate-Rouen-2080231528900009/;tel:+33 2 35 14 07 10;
+571;Les Torrefacteurs Normands;21 Place Saint Marc, 76000, Rouen France;;;tel:+33 6 50 89 95 57;mailto:lestorrefactreursnormands@gmail.com?subject=?
+572;Le Quai Ouest;4 boulevard Ferdinand de Lesseps, 76000, Rouen France;;;tel:+33 2 32 10 10 06;
+573;Le By Club;20 rue de l Ancienne Prison, 76000, Rouen France;;http://www.facebook.com/lebyclub/timeline;tel:+33 6 58 06 13 97;
+574;Manger la nuit;42 quai Gaston Boulet, 76000, Rouen France;;http://www.mangerlanuit.com;tel:+33 2 35 36 20 20;
+575;escape;8 rue Jean Lecanuet, 76000, Rouen France;;;tel:+33 2 35 36 74 91;mailto:minoynoah@gmail.com?subject=?
+576;Ibiza Club Rouen;29 boulevard des Belges, 76000, Rouen France;;http://ibizaclubrouen.fr/;tel:+33 6 63 32 15 32;mailto:contact.ibizaclub@gmail.com?subject=?
+577;Cafe Le Metropole;111 rue Jeanne D Arc, 76000, Rouen France;;https://www.facebook.com/Le-M%C3%A9tropole-1571051543116775/;tel:+33 2 35 71 58 56;
+578;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+579;Une Pause s’Impose;5 rue grand Pont Near Galeries Lafayette, 76000, Rouen France;;https://www.facebook.com/samanthaetnaoufel/;tel:+33 9 86 30 17 91;
+580;The Novick's Stadium;Quai de Boisguilbert Hangar B, 76000, Rouen France;;https://www.facebook.com/TNSROUEN/;tel:+33 2 35 15 15 15;mailto:stadium.rouen@gmail.com?subject=?
+581;Subway;76 rue des Docks, 76100, Rouen France;;http://www.subwayfrance.fr/;tel:+33 2 32 10 14 54;
+582;Viva Italia Rouen;80 rue Martainville, 76000, Rouen France;;;tel:+33 2 35 36 47 99;
+583;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+584;Bar des stations;188 avenue du Mont Riboudet, 76000, Rouen France;;;tel:+33 2 35 71 36 60;
+585;Pizza Burger;81 rue Cauchoise, 76000, Rouen France;;http://pizza-burger.fr;;
+586;French Chicken Home;38/40 Avenue de Caen 76100 Rouen, 76100, Rouen France;;;;
+587;Indiana Food;38 avenue de Caen, 76100, Rouen France;;;;
+588;Cafe Brun (ancien Au Verre Divin);84 rue Cauchoise, 76000, Rouen France;;;;
+589;Boteco Brasil;90 boulevard de l Yser, 76000, Rouen France;;http://www.botecobrasil.fr;tel:+33 9 53 84 88 04;mailto:ola@botecobrasil.fr?subject=?
+590;2 Minutes Pizza;4 Avenue Jean Jaures Rouen - Sud 76140, 76140, Rouen France;;;;
+591;Le p'tit afghan;Rouen France;;;;
+592;La Bonne Excuse;41 Grand Rue, 76570, Rouen France;;https://www.facebook.com/labonneexcuse/;tel:+33 2 32 87 13 19;mailto:la.bonne.excuse.limesy@gmail.com?subject=?
+593;Cuisine Lounge;7 rue Croix de Fer Hotel Mercure Rouen Centre Cathedrale, 76000, Rouen France;;http://restaurants.accorhotels.com/fr/restaurant-1301_R001-cuisine-lounge-rouen.shtml;;
+594;La Bouche;49 B Place du General de Gaulle, 76000, Rouen France;;https://www.facebook.com/LaBoucheDu3P/;;mailto:labouchedu3pieces@gmail.com?subject=?
+595;Lillois;79 rue Cauchoise, 76000, Rouen France;;http://www.facebook.com/auxlilloisbar/;;
+596;Domino's Pizza;20 quai Pierre Corneille, 76000, Rouen France;;https://www.dominos.fr/magasin/rouen-corneille_76000?y_source=1_MTQ4MjIzMTYtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D;tel:+33 2 35 71 22 22;
+597;Popote À La Friche Lucien;1 Place Carnot, 76100, Rouen France;;http://www.lafrichelucien.org/;tel:+33 6 49 20 80 98;mailto:bonjour@atelierlucien.org?subject=?
+598;Balthazar Rooftop;13 rue de Crosne, 76000, Rouen France;;https://www.facebook.com/pages/category/Lounge/Balthazar-Rooftop-188720371895347/;tel:+33 7 69 20 88 05;
+599;Cesar Palace;61 rue Saint Vivien, 76000, Rouen France;;;;
+600;Braserie du Plateau;47 Route de Paris, 76520, Rouen France;;;tel:+33 2 35 80 28 70;
+601;Le Village;10 rue Perciere, 76000, Rouen France;;;tel:+33 2 35 07 04 34;
+602;Le Petit Gourmand;Rue aux Ours, Rouen France;;;;
+603;Pizza Gourmet;144 rue Saint Hilaire, 76000, Rouen France;;http://pizza-gourmet.fr;tel:+33 2 22 44 66 88;
+604;Pizza Gourmet;144 rue Saint Hilaire, 76000, Rouen France;;http://pizza-gourmet.fr;tel:+33 2 22 44 66 88;
+605;Cafe Brun;84 rue Cauchoise, 76000, Rouen France;;;;
+606;Tacos King;154 rue Saint Sever, 76100, Rouen France;;http://takosking.com/;tel:+33 7 68 27 26 55;
+607;Les Beaux Arts;34 rue Damiette, 76000, Rouen France;;http://www.restaurant-des-beaux-arts.com;tel:+33 2 35 70 17 15;
+608;G.I.s House;16 rue du General Leclerc, 76000, Rouen France;;;;
+609;Il Etait Une Fois;196 rue Eau de Robec, 76000, Rouen France;;;tel:+33 2 77 07 70 72;
+610;le palmier;66 rue de Lessard, 76100, Rouen France;;;;
+611;Calcutta;47 rue Saint Vivien, 76000, Rouen France;;;;
+612;Seine et Quai;Quai Ferdinand de Lesseps Hangar 10, 76000, Rouen France;;http://seineetquai.fr/;tel:+33 2 35 00 40 21;mailto:seineetquai@gmail.com?subject=?
+613;Scolarest;98 avenue de Bretagne, 76000, Rouen France;;;tel:+33 2 32 18 47 10;
+614;O'turquoise;8 rue des Augustins, 76000, Rouen France;;;tel:+33 2 35 89 48 37;
+615;Pizzaline;42 rue Cauchoise, 76000, Rouen France;;;tel:+33 2 35 88 22 22;
+616;Tacos D'or;6 rue Beauvoisine, 76000, Rouen France;;;tel:+33 9 83 70 88 91;
+617;Chez coco';9 rue du Bac, 76000, Rouen France;;;tel:+33 6 71 85 60 57;mailto:Chezcoco@gmail.com?subject=?
+618;anecdotes ô bistrot;14 Place du Vieux Marche, 76000, Rouen France;;;tel:+33 2 35 89 88 72;
+619;Vivre & Savourer Rouen;Centre Commercial Saint Sever, 76100, Rouen France;;http://www.vivreetsavourer.com;tel:+33 2 35 07 06 13;mailto:info@vivreetsavourer.com?subject=?
+620;Sacha's;20 Place Saint Amand, 76000, Rouen France;;;tel:+33 9 73 68 81 04;
+621;Le Ptit Plat;6 Place Waldeck Rousseau, 76140 Le Petit Quevilly, Rouen France;;https://www.facebook.com/leptitplat/;tel:+33 2 76 51 76 16;mailto:leptitplat@educationetformation.fr?subject=?
+622;Le Miam Burger;135 avenue Jean Jaures, 76140 Le Petit Quevilly, Rouen France;;;;
+623;Subway;78 Avenue Jean Jaures, 76140 Le Petit Quevilly, Rouen France;;https://restaurants.subway.com/france/petit-quevilly/78-avenue-jean-jaures?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=60333&utm_campaign=evergreen-2020;tel:+33 2 35 08 16 42;
+624;;;;;;
+625;;;;;;
+626;;;;;;
+627;;;;;;
+628;;;;;;
+629;;;;;;
+630;;;;;;
+631;;;;;;
+632;;;;;;
+633;;;;;;
+634;;;;;;
+635;;;;;;
+636;;;;;;
+637;;;;;;
+638;;;;;;
+639;;;;;;
+640;;;;;;
+641;;;;;;
+642;;;;;;
+643;;;;;;
+644;;;;;;
+645;;;;;;
+646;;;;;;
+647;;;;;;
+648;;;;;;
+649;;;;;;
+650;;;;;;
+651;;;;;;
+652;;;;;;
+653;;;;;;
+654;;;;;;
+655;;;;;;
+656;;;;;;
+657;;;;;;
+658;;;;;;
+659;;;;;;
+660;;;;;;
+661;;;;;;
+662;;;;;;
+663;;;;;;
+664;;;;;;
+665;;;;;;
+666;;;;;;
+667;;;;;;
+668;;;;;;
+669;;;;;;
+670;;;;;;
+671;;;;;;
+672;;;;;;
+673;;;;;;
+674;;;;;;
+675;;;;;;
+676;;;;;;
+677;;;;;;
+678;;;;;;
+679;;;;;;
+680;;;;;;
+681;;;;;;
+682;;;;;;
+683;;;;;;
+684;;;;;;
+685;;;;;;
+686;;;;;;
+687;;;;;;
+688;;;;;;
+689;;;;;;
+690;;;;;;
+691;;;;;;
+692;;;;;;
+693;;;;;;
+694;;;;;;
+695;;;;;;
+696;;;;;;
+697;;;;;;
+698;;;;;;
+699;;;;;;
+700;;;;;;
+701;;;;;;
+702;;;;;;
+703;;;;;;
+704;;;;;;
+705;;;;;;
+706;;;;;;
+707;;;;;;
+708;;;;;;
+709;;;;;;
+710;;;;;;
+711;;;;;;
+712;;;;;;
+713;;;;;;
+714;;;;;;
+715;;;;;;
+716;;;;;;
+717;;;;;;
+718;;;;;;
+719;;;;;;
+720;;;;;;
+721;;;;;;
+722;;;;;;
+723;;;;;;
+724;;;;;;
+725;;;;;;
+726;;;;;;
+727;;;;;;
+728;;;;;;
+729;;;;;;
+730;;;;;;
+731;;;;;;
+732;;;;;;
+733;;;;;;
+734;;;;;;
+735;;;;;;
+736;;;;;;
+737;;;;;;
+738;;;;;;
+739;;;;;;
+740;;;;;;
+741;;;;;;
+742;;;;;;
+743;;;;;;
+744;;;;;;
+745;;;;;;
+746;;;;;;
+747;;;;;;
+748;;;;;;
+749;;;;;;
+750;;;;;;
+751;;;;;;
+752;;;;;;
+753;;;;;;
+754;;;;;;
+755;;;;;;
+756;;;;;;
+757;;;;;;
+758;;;;;;
+759;;;;;;
+760;;;;;;
+761;;;;;;
+762;;;;;;
+763;;;;;;
+764;;;;;;
+765;;;;;;
+766;;;;;;
+767;;;;;;
